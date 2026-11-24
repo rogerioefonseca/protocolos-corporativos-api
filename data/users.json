@@ -1,0 +1,62 @@
+[
+  {
+    "id": "usr-001",
+    "name": "Ana Silva",
+    "email": "ana.silva@empresa.com.br",
+    "department": "Compliance",
+    "role": "Analista Sênior",
+    "protocol_id": "prot-comp-01",
+    "active": true,
+    "created_at": "2024-03-12T10:00:00Z"
+  },
+  {
+    "id": "usr-002",
+    "name": "Bruno Costa",
+    "email": "bruno.costa@empresa.com.br",
+    "department": "Riscos",
+    "role": "Gerente de Riscos",
+    "protocol_id": "prot-risk-01",
+    "active": true,
+    "created_at": "2024-01-20T14:30:00Z"
+  },
+  {
+    "id": "usr-003",
+    "name": "Carla Mendes",
+    "email": "carla.mendes@empresa.com.br",
+    "department": "Inovação",
+    "role": "Product Owner",
+    "protocol_id": "prot-inn-01",
+    "active": true,
+    "created_at": "2024-06-05T09:15:00Z"
+  },
+  {
+    "id": "usr-004",
+    "name": "Diego Oliveira",
+    "email": "diego.oliveira@empresa.com.br",
+    "department": "Compliance",
+    "role": "Especialista",
+    "protocol_id": "prot-comp-02",
+    "active": true,
+    "created_at": "2025-02-18T11:45:00Z"
+  },
+  {
+    "id": "usr-005",
+    "name": "Elena Ferreira",
+    "email": "elena.ferreira@empresa.com.br",
+    "department": "Riscos",
+    "role": "Analista",
+    "protocol_id": "prot-risk-02",
+    "active": false,
+    "created_at": "2023-11-08T16:20:00Z"
+  },
+  {
+    "id": "usr-006",
+    "name": "Felipe Santos",
+    "email": "felipe.santos@empresa.com.br",
+    "department": "Inovação",
+    "role": "Tech Lead",
+    "protocol_id": "prot-inn-02",
+    "active": true,
+    "created_at": "2025-08-22T08:00:00Z"
+  }
+]
