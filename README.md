@@ -61,6 +61,18 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload --port 8000
 ```
 
+## MCP Customizado
+
+A pasta **`mcp/`** contém o servidor MCP que se conecta a esta API.
+
+```bash
+cd mcp
+pip install -r requirements.txt
+python server.py
+```
+
+Veja o [README da pasta mcp](mcp/README.md) para instruções de conexão no Claude Desktop, Cursor, Grok, etc.
+
 ## Estrutura do projeto
 
 ```
@@ -74,6 +86,10 @@ uvicorn app.main:app --reload --port 8000
 │   ├── audits.json
 │   ├── costs.json
 │   └── emails.json
+├── mcp/                 # ← MCP customizado
+│   ├── server.py
+│   ├── requirements.txt
+│   └── README.md
 ├── Dockerfile
 ├── requirements.txt
 └── README.md
@@ -85,14 +101,10 @@ Esta API é perfeita para mostrar:
 
 1. **Consumo de API** simples (sem auth)
 2. Criação de **artefatos** (páginas, relatórios, dashboards) que leem `/summary` ou endpoints específicos
-3. Construção de um **MCP server customizado** que expõe ferramentas como:
-   - `list_protocols`
-   - `get_user_audits`
-   - `calculate_protocol_cost`
-   - etc.
+3. Construção de um **MCP server customizado** (já pronto na pasta `mcp/`)
 4. Integração com Google Drive / Gmail (ex.: salvar relatório gerado, enviar e-mail de resumo)
 
-Depois de rodar a API localmente, você pode conectar um MCP CLI / cliente e experimentar as tools.
+Depois de rodar a API localmente, você pode conectar o MCP e experimentar as tools.
 
 ---
 
