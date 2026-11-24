@@ -1,0 +1,74 @@
+[
+  {
+    "id": "email-001",
+    "user_id": "usr-001",
+    "address": "ana.silva@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-002",
+    "user_id": "usr-001",
+    "address": "ana.silva.pessoal@gmail.com",
+    "type": "pessoal",
+    "primary": false,
+    "verified": true
+  },
+  {
+    "id": "email-003",
+    "user_id": "usr-002",
+    "address": "bruno.costa@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-004",
+    "user_id": "usr-003",
+    "address": "carla.mendes@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-005",
+    "user_id": "usr-003",
+    "address": "carla.m@outlook.com",
+    "type": "pessoal",
+    "primary": false,
+    "verified": false
+  },
+  {
+    "id": "email-006",
+    "user_id": "usr-004",
+    "address": "diego.oliveira@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-007",
+    "user_id": "usr-005",
+    "address": "elena.ferreira@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-008",
+    "user_id": "usr-006",
+    "address": "felipe.santos@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-009",
+    "user_id": "usr-006",
+    "address": "felipe.tech@proton.me",
+    "type": "pessoal",
+    "primary": false,
+    "verified": true
+  }
+]
