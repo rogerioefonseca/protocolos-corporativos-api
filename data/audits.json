@@ -100,5 +100,2605 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
     "timestamp": "2025-11-23T08:40:18Z",
     "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-011",
+    "user_id": "usr-005",
+    "action": "login",
+    "success": true,
+    "ip": "201.185.45.112",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2025-09-04T14:31:14Z",
+    "location": "Porto Alegre, BR"
+  },
+  {
+    "id": "aud-012",
+    "user_id": "usr-005",
+    "action": "logout",
+    "success": true,
+    "ip": "179.223.205.135",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2025-09-04T21:31:14Z",
+    "location": "Porto Alegre, BR"
+  },
+  {
+    "id": "aud-013",
+    "user_id": "usr-017",
+    "action": "login",
+    "success": true,
+    "ip": "189.158.173.57",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2025-09-05T08:18:22Z",
+    "location": "Manaus, BR"
+  },
+  {
+    "id": "aud-014",
+    "user_id": "usr-017",
+    "action": "logout",
+    "success": true,
+    "ip": "201.86.39.131",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2025-09-05T17:18:22Z",
+    "location": "Manaus, BR"
+  },
+  {
+    "id": "aud-015",
+    "user_id": "usr-022",
+    "action": "login",
+    "success": true,
+    "ip": "191.99.178.90",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2025-09-06T13:04:53Z",
+    "location": "Cuiabá, BR"
+  },
+  {
+    "id": "aud-016",
+    "user_id": "usr-022",
+    "action": "logout",
+    "success": true,
+    "ip": "179.52.74.66",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2025-09-06T17:04:53Z",
+    "location": "Cuiabá, BR"
+  },
+  {
+    "id": "aud-017",
+    "user_id": "usr-017",
+    "action": "login",
+    "success": true,
+    "ip": "179.78.38.46",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2025-09-11T09:27:06Z",
+    "location": "Manaus, BR"
+  },
+  {
+    "id": "aud-018",
+    "user_id": "usr-022",
+    "action": "login",
+    "success": true,
+    "ip": "189.229.165.222",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2025-09-24T07:03:50Z",
+    "location": "Cuiabá, BR"
+  },
+  {
+    "id": "aud-019",
+    "user_id": "usr-005",
+    "action": "login",
+    "success": true,
+    "ip": "179.225.34.121",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2025-09-27T07:58:25Z",
+    "location": "Porto Alegre, BR"
+  },
+  {
+    "id": "aud-020",
+    "user_id": "usr-017",
+    "action": "login",
+    "success": false,
+    "ip": "200.155.140.152",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2025-10-24T12:10:11Z",
+    "location": "Manaus, BR"
+  },
+  {
+    "id": "aud-021",
+    "user_id": "usr-005",
+    "action": "login",
+    "success": true,
+    "ip": "177.158.236.116",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2025-11-02T19:46:10Z",
+    "location": "Porto Alegre, BR"
+  },
+  {
+    "id": "aud-022",
+    "user_id": "usr-017",
+    "action": "login",
+    "success": false,
+    "ip": "177.188.146.20",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2025-11-05T22:55:34Z",
+    "location": "Unknown"
+  },
+  {
+    "id": "aud-023",
+    "user_id": "usr-005",
+    "action": "login",
+    "success": true,
+    "ip": "191.196.236.149",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2025-11-07T19:54:57Z",
+    "location": "Porto Alegre, BR"
+  },
+  {
+    "id": "aud-024",
+    "user_id": "usr-005",
+    "action": "logout",
+    "success": true,
+    "ip": "189.96.164.155",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2025-11-08T04:54:57Z",
+    "location": "Porto Alegre, BR"
+  },
+  {
+    "id": "aud-025",
+    "user_id": "usr-022",
+    "action": "login",
+    "success": true,
+    "ip": "191.77.31.116",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2025-11-10T13:07:54Z",
+    "location": "Cuiabá, BR"
+  },
+  {
+    "id": "aud-026",
+    "user_id": "usr-022",
+    "action": "logout",
+    "success": true,
+    "ip": "201.175.43.130",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2025-11-10T17:07:54Z",
+    "location": "Cuiabá, BR"
+  },
+  {
+    "id": "aud-027",
+    "user_id": "usr-022",
+    "action": "login",
+    "success": true,
+    "ip": "177.126.224.254",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2025-12-03T18:34:57Z",
+    "location": "Cuiabá, BR"
+  },
+  {
+    "id": "aud-028",
+    "user_id": "usr-017",
+    "action": "login",
+    "success": true,
+    "ip": "191.81.186.96",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2025-12-03T21:10:44Z",
+    "location": "Manaus, BR"
+  },
+  {
+    "id": "aud-029",
+    "user_id": "usr-022",
+    "action": "logout",
+    "success": true,
+    "ip": "189.209.173.174",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2025-12-04T01:34:57Z",
+    "location": "Cuiabá, BR"
+  },
+  {
+    "id": "aud-030",
+    "user_id": "usr-017",
+    "action": "logout",
+    "success": true,
+    "ip": "201.171.33.85",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2025-12-04T03:10:44Z",
+    "location": "Manaus, BR"
+  },
+  {
+    "id": "aud-031",
+    "user_id": "usr-005",
+    "action": "login",
+    "success": true,
+    "ip": "191.197.145.65",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2025-12-05T20:08:55Z",
+    "location": "Porto Alegre, BR"
+  },
+  {
+    "id": "aud-032",
+    "user_id": "usr-005",
+    "action": "logout",
+    "success": true,
+    "ip": "187.41.72.235",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2025-12-06T03:08:55Z",
+    "location": "Porto Alegre, BR"
+  },
+  {
+    "id": "aud-033",
+    "user_id": "usr-017",
+    "action": "login",
+    "success": true,
+    "ip": "187.200.66.153",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2025-12-07T14:40:43Z",
+    "location": "Manaus, BR"
+  },
+  {
+    "id": "aud-034",
+    "user_id": "usr-022",
+    "action": "login",
+    "success": true,
+    "ip": "187.192.168.209",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2025-12-11T18:13:28Z",
+    "location": "Cuiabá, BR"
+  },
+  {
+    "id": "aud-035",
+    "user_id": "usr-022",
+    "action": "logout",
+    "success": true,
+    "ip": "200.47.216.131",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2025-12-12T00:13:28Z",
+    "location": "Cuiabá, BR"
+  },
+  {
+    "id": "aud-036",
+    "user_id": "usr-026",
+    "action": "login",
+    "success": true,
+    "ip": "177.185.158.47",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-07-27T20:55:58Z",
+    "location": "João Pessoa, BR"
+  },
+  {
+    "id": "aud-037",
+    "user_id": "usr-007",
+    "action": "login",
+    "success": true,
+    "ip": "187.248.98.58",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-07-29T16:36:43Z",
+    "location": "Salvador, BR"
+  },
+  {
+    "id": "aud-038",
+    "user_id": "usr-007",
+    "action": "logout",
+    "success": true,
+    "ip": "179.39.151.217",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-07-29T20:36:43Z",
+    "location": "Salvador, BR"
+  },
+  {
+    "id": "aud-039",
+    "user_id": "usr-003",
+    "action": "login",
+    "success": true,
+    "ip": "191.19.172.225",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-07-30T10:29:08Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-040",
+    "user_id": "usr-012",
+    "action": "login",
+    "success": false,
+    "ip": "191.192.78.42",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-07-31T15:52:09Z",
+    "location": "Unknown"
+  },
+  {
+    "id": "aud-041",
+    "user_id": "usr-003",
+    "action": "login",
+    "success": true,
+    "ip": "201.84.224.12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-08-02T20:53:58Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-042",
+    "user_id": "usr-021",
+    "action": "login",
+    "success": true,
+    "ip": "187.121.227.157",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-08-03T20:41:06Z",
+    "location": "Belém, BR"
+  },
+  {
+    "id": "aud-043",
+    "user_id": "usr-019",
+    "action": "login",
+    "success": true,
+    "ip": "201.229.119.137",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-08-04T18:33:32Z",
+    "location": "Goiânia, BR"
+  },
+  {
+    "id": "aud-044",
+    "user_id": "usr-008",
+    "action": "login",
+    "success": true,
+    "ip": "187.240.99.95",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-08-04T21:15:48Z",
+    "location": "Santos, BR"
+  },
+  {
+    "id": "aud-045",
+    "user_id": "usr-016",
+    "action": "login",
+    "success": true,
+    "ip": "189.144.195.129",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-08-05T21:06:33Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-046",
+    "user_id": "usr-016",
+    "action": "logout",
+    "success": true,
+    "ip": "179.102.70.224",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-08-06T00:06:33Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-047",
+    "user_id": "usr-023",
+    "action": "login",
+    "success": true,
+    "ip": "177.246.190.142",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-08-06T07:08:00Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-048",
+    "user_id": "usr-015",
+    "action": "login",
+    "success": true,
+    "ip": "200.63.145.22",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-08-06T11:28:34Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-049",
+    "user_id": "usr-015",
+    "action": "logout",
+    "success": true,
+    "ip": "187.230.75.213",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-08-06T20:28:34Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-050",
+    "user_id": "usr-013",
+    "action": "login",
+    "success": true,
+    "ip": "177.113.230.227",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-08-07T12:21:26Z",
+    "location": "Fortaleza, BR"
+  },
+  {
+    "id": "aud-051",
+    "user_id": "usr-008",
+    "action": "login",
+    "success": false,
+    "ip": "177.212.27.102",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-08-07T14:53:59Z",
+    "location": "Santos, BR"
+  },
+  {
+    "id": "aud-052",
+    "user_id": "usr-013",
+    "action": "logout",
+    "success": true,
+    "ip": "177.191.114.8",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-08-07T19:21:26Z",
+    "location": "Fortaleza, BR"
+  },
+  {
+    "id": "aud-053",
+    "user_id": "usr-018",
+    "action": "login",
+    "success": true,
+    "ip": "177.171.74.36",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-08-07T22:06:15Z",
+    "location": "Curitiba, BR"
+  },
+  {
+    "id": "aud-054",
+    "user_id": "usr-018",
+    "action": "logout",
+    "success": true,
+    "ip": "187.241.71.195",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-08-08T03:06:15Z",
+    "location": "Curitiba, BR"
+  },
+  {
+    "id": "aud-055",
+    "user_id": "usr-027",
+    "action": "login",
+    "success": true,
+    "ip": "189.2.40.5",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-08-08T10:22:54Z",
+    "location": "Blumenau, BR"
+  },
+  {
+    "id": "aud-056",
+    "user_id": "usr-027",
+    "action": "logout",
+    "success": true,
+    "ip": "179.76.216.29",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-08-08T15:22:54Z",
+    "location": "Blumenau, BR"
+  },
+  {
+    "id": "aud-057",
+    "user_id": "usr-024",
+    "action": "login",
+    "success": false,
+    "ip": "179.154.62.13",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-08-08T19:27:43Z",
+    "location": "Natal, BR"
+  },
+  {
+    "id": "aud-058",
+    "user_id": "usr-014",
+    "action": "login",
+    "success": true,
+    "ip": "201.234.32.29",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-08-09T10:29:07Z",
+    "location": "Porto Alegre, BR"
+  },
+  {
+    "id": "aud-059",
+    "user_id": "usr-014",
+    "action": "logout",
+    "success": true,
+    "ip": "191.8.123.184",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-08-09T15:29:07Z",
+    "location": "Porto Alegre, BR"
+  },
+  {
+    "id": "aud-060",
+    "user_id": "usr-014",
+    "action": "login",
+    "success": true,
+    "ip": "187.219.0.158",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-08-11T07:42:55Z",
+    "location": "Porto Alegre, BR"
+  },
+  {
+    "id": "aud-061",
+    "user_id": "usr-014",
+    "action": "logout",
+    "success": true,
+    "ip": "179.213.95.171",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-08-11T11:42:55Z",
+    "location": "Porto Alegre, BR"
+  },
+  {
+    "id": "aud-062",
+    "user_id": "usr-027",
+    "action": "login",
+    "success": true,
+    "ip": "191.184.34.245",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-08-12T07:38:59Z",
+    "location": "Blumenau, BR"
+  },
+  {
+    "id": "aud-063",
+    "user_id": "usr-013",
+    "action": "login",
+    "success": true,
+    "ip": "189.240.22.163",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-08-12T08:29:05Z",
+    "location": "Fortaleza, BR"
+  },
+  {
+    "id": "aud-064",
+    "user_id": "usr-013",
+    "action": "logout",
+    "success": true,
+    "ip": "187.129.8.92",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-08-12T15:29:05Z",
+    "location": "Fortaleza, BR"
+  },
+  {
+    "id": "aud-065",
+    "user_id": "usr-009",
+    "action": "login",
+    "success": true,
+    "ip": "187.123.53.198",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-08-14T15:21:17Z",
+    "location": "Florianópolis, BR"
+  },
+  {
+    "id": "aud-066",
+    "user_id": "usr-025",
+    "action": "login",
+    "success": true,
+    "ip": "179.22.180.140",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-08-15T10:54:41Z",
+    "location": "Campo Grande, BR"
+  },
+  {
+    "id": "aud-067",
+    "user_id": "usr-002",
+    "action": "login",
+    "success": true,
+    "ip": "201.89.237.252",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-08-15T12:42:05Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-068",
+    "user_id": "usr-011",
+    "action": "login",
+    "success": true,
+    "ip": "200.93.69.17",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-08-15T14:49:33Z",
+    "location": "Recife, BR"
+  },
+  {
+    "id": "aud-069",
+    "user_id": "usr-008",
+    "action": "login",
+    "success": true,
+    "ip": "177.150.103.12",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-08-17T22:29:27Z",
+    "location": "Santos, BR"
+  },
+  {
+    "id": "aud-070",
+    "user_id": "usr-008",
+    "action": "logout",
+    "success": true,
+    "ip": "177.161.158.132",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-08-18T04:29:27Z",
+    "location": "Santos, BR"
+  },
+  {
+    "id": "aud-071",
+    "user_id": "usr-007",
+    "action": "login",
+    "success": true,
+    "ip": "201.242.129.10",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-08-21T10:49:52Z",
+    "location": "Salvador, BR"
+  },
+  {
+    "id": "aud-072",
+    "user_id": "usr-007",
+    "action": "logout",
+    "success": true,
+    "ip": "187.182.24.222",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-08-21T11:49:52Z",
+    "location": "Salvador, BR"
+  },
+  {
+    "id": "aud-073",
+    "user_id": "usr-010",
+    "action": "login",
+    "success": true,
+    "ip": "187.63.188.112",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-08-21T12:12:13Z",
+    "location": "Brasília, BR"
+  },
+  {
+    "id": "aud-074",
+    "user_id": "usr-026",
+    "action": "login",
+    "success": true,
+    "ip": "200.225.197.87",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-08-21T18:51:08Z",
+    "location": "João Pessoa, BR"
+  },
+  {
+    "id": "aud-075",
+    "user_id": "usr-010",
+    "action": "logout",
+    "success": true,
+    "ip": "189.254.188.237",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-08-21T21:12:13Z",
+    "location": "Brasília, BR"
+  },
+  {
+    "id": "aud-076",
+    "user_id": "usr-003",
+    "action": "login",
+    "success": true,
+    "ip": "201.42.217.21",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-08-21T22:28:16Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-077",
+    "user_id": "usr-019",
+    "action": "login",
+    "success": true,
+    "ip": "191.92.150.83",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-08-21T22:53:57Z",
+    "location": "Goiânia, BR"
+  },
+  {
+    "id": "aud-078",
+    "user_id": "usr-026",
+    "action": "logout",
+    "success": true,
+    "ip": "177.167.151.79",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-08-22T03:51:08Z",
+    "location": "João Pessoa, BR"
+  },
+  {
+    "id": "aud-079",
+    "user_id": "usr-028",
+    "action": "login",
+    "success": true,
+    "ip": "191.218.85.177",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-08-22T07:05:47Z",
+    "location": "São Luís, BR"
+  },
+  {
+    "id": "aud-080",
+    "user_id": "usr-028",
+    "action": "logout",
+    "success": true,
+    "ip": "187.228.21.187",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-08-22T15:05:47Z",
+    "location": "São Luís, BR"
+  },
+  {
+    "id": "aud-081",
+    "user_id": "usr-013",
+    "action": "login",
+    "success": false,
+    "ip": "191.222.140.164",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-08-22T17:38:16Z",
+    "location": "Fortaleza, BR"
+  },
+  {
+    "id": "aud-082",
+    "user_id": "usr-025",
+    "action": "login",
+    "success": true,
+    "ip": "200.207.186.132",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-08-24T13:27:28Z",
+    "location": "Campo Grande, BR"
+  },
+  {
+    "id": "aud-083",
+    "user_id": "usr-009",
+    "action": "login",
+    "success": true,
+    "ip": "177.73.224.9",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-08-24T20:31:35Z",
+    "location": "Florianópolis, BR"
+  },
+  {
+    "id": "aud-084",
+    "user_id": "usr-025",
+    "action": "logout",
+    "success": true,
+    "ip": "177.120.187.93",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-08-24T21:27:28Z",
+    "location": "Campo Grande, BR"
+  },
+  {
+    "id": "aud-085",
+    "user_id": "usr-024",
+    "action": "login",
+    "success": false,
+    "ip": "191.16.78.174",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-08-25T21:04:57Z",
+    "location": "Unknown"
+  },
+  {
+    "id": "aud-086",
+    "user_id": "usr-029",
+    "action": "login",
+    "success": true,
+    "ip": "187.227.39.147",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-08-26T14:32:35Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-087",
+    "user_id": "usr-015",
+    "action": "login",
+    "success": true,
+    "ip": "191.187.203.81",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-08-26T19:24:42Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-088",
+    "user_id": "usr-007",
+    "action": "login",
+    "success": true,
+    "ip": "179.58.13.189",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-08-27T15:49:23Z",
+    "location": "Salvador, BR"
+  },
+  {
+    "id": "aud-089",
+    "user_id": "usr-018",
+    "action": "login",
+    "success": true,
+    "ip": "189.198.60.68",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-08-27T16:01:53Z",
+    "location": "Curitiba, BR"
+  },
+  {
+    "id": "aud-090",
+    "user_id": "usr-018",
+    "action": "logout",
+    "success": true,
+    "ip": "200.228.109.157",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-08-27T17:01:53Z",
+    "location": "Curitiba, BR"
+  },
+  {
+    "id": "aud-091",
+    "user_id": "usr-018",
+    "action": "login",
+    "success": true,
+    "ip": "200.251.102.32",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-08-30T12:04:28Z",
+    "location": "Curitiba, BR"
+  },
+  {
+    "id": "aud-092",
+    "user_id": "usr-001",
+    "action": "login",
+    "success": true,
+    "ip": "201.37.231.45",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-08-31T17:39:20Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-093",
+    "user_id": "usr-001",
+    "action": "logout",
+    "success": true,
+    "ip": "177.163.177.182",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-08-31T22:39:20Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-094",
+    "user_id": "usr-012",
+    "action": "login",
+    "success": true,
+    "ip": "191.148.153.218",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-01T13:27:07Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-095",
+    "user_id": "usr-024",
+    "action": "login",
+    "success": true,
+    "ip": "200.89.185.131",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-01T16:29:41Z",
+    "location": "Natal, BR"
+  },
+  {
+    "id": "aud-096",
+    "user_id": "usr-007",
+    "action": "login",
+    "success": true,
+    "ip": "177.102.71.61",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-01T18:04:32Z",
+    "location": "Salvador, BR"
+  },
+  {
+    "id": "aud-097",
+    "user_id": "usr-024",
+    "action": "logout",
+    "success": true,
+    "ip": "177.184.188.120",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-02T00:29:41Z",
+    "location": "Natal, BR"
+  },
+  {
+    "id": "aud-098",
+    "user_id": "usr-007",
+    "action": "logout",
+    "success": true,
+    "ip": "191.44.33.80",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-02T01:04:32Z",
+    "location": "Salvador, BR"
+  },
+  {
+    "id": "aud-099",
+    "user_id": "usr-016",
+    "action": "login",
+    "success": true,
+    "ip": "200.245.210.197",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-02T09:54:21Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-100",
+    "user_id": "usr-020",
+    "action": "login",
+    "success": false,
+    "ip": "201.37.64.249",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-09-02T20:07:08Z",
+    "location": "Unknown"
+  },
+  {
+    "id": "aud-101",
+    "user_id": "usr-009",
+    "action": "login",
+    "success": false,
+    "ip": "189.238.176.33",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-03T22:28:50Z",
+    "location": "Unknown"
+  },
+  {
+    "id": "aud-102",
+    "user_id": "usr-019",
+    "action": "login",
+    "success": true,
+    "ip": "179.221.28.213",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-09-05T10:57:40Z",
+    "location": "Goiânia, BR"
+  },
+  {
+    "id": "aud-103",
+    "user_id": "usr-019",
+    "action": "logout",
+    "success": true,
+    "ip": "191.78.155.43",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-05T18:57:40Z",
+    "location": "Goiânia, BR"
+  },
+  {
+    "id": "aud-104",
+    "user_id": "usr-018",
+    "action": "login",
+    "success": true,
+    "ip": "187.115.177.243",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-09-06T14:31:58Z",
+    "location": "Curitiba, BR"
+  },
+  {
+    "id": "aud-105",
+    "user_id": "usr-002",
+    "action": "login",
+    "success": true,
+    "ip": "201.40.128.51",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-09-06T17:05:52Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-106",
+    "user_id": "usr-018",
+    "action": "logout",
+    "success": true,
+    "ip": "179.155.47.129",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-06T19:31:58Z",
+    "location": "Curitiba, BR"
+  },
+  {
+    "id": "aud-107",
+    "user_id": "usr-002",
+    "action": "logout",
+    "success": true,
+    "ip": "191.78.87.169",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-09-06T22:05:52Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-108",
+    "user_id": "usr-024",
+    "action": "login",
+    "success": true,
+    "ip": "201.21.14.21",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-09-08T11:04:08Z",
+    "location": "Natal, BR"
+  },
+  {
+    "id": "aud-109",
+    "user_id": "usr-007",
+    "action": "login",
+    "success": true,
+    "ip": "200.135.107.197",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-09T10:50:36Z",
+    "location": "Salvador, BR"
+  },
+  {
+    "id": "aud-110",
+    "user_id": "usr-010",
+    "action": "login",
+    "success": true,
+    "ip": "191.15.254.228",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-09-09T16:06:53Z",
+    "location": "Brasília, BR"
+  },
+  {
+    "id": "aud-111",
+    "user_id": "usr-026",
+    "action": "login",
+    "success": true,
+    "ip": "200.154.247.63",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-09T16:22:06Z",
+    "location": "João Pessoa, BR"
+  },
+  {
+    "id": "aud-112",
+    "user_id": "usr-007",
+    "action": "logout",
+    "success": true,
+    "ip": "187.232.37.177",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-09-09T17:50:36Z",
+    "location": "Salvador, BR"
+  },
+  {
+    "id": "aud-113",
+    "user_id": "usr-010",
+    "action": "logout",
+    "success": true,
+    "ip": "179.225.212.124",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-09T19:06:53Z",
+    "location": "Brasília, BR"
+  },
+  {
+    "id": "aud-114",
+    "user_id": "usr-026",
+    "action": "logout",
+    "success": true,
+    "ip": "179.174.73.81",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-09-10T00:22:06Z",
+    "location": "João Pessoa, BR"
+  },
+  {
+    "id": "aud-115",
+    "user_id": "usr-023",
+    "action": "login",
+    "success": true,
+    "ip": "200.176.204.34",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-09-10T17:01:11Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-116",
+    "user_id": "usr-023",
+    "action": "logout",
+    "success": true,
+    "ip": "191.54.163.62",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-11T00:01:11Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-117",
+    "user_id": "usr-027",
+    "action": "login",
+    "success": true,
+    "ip": "177.136.230.64",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-12T14:51:27Z",
+    "location": "Blumenau, BR"
+  },
+  {
+    "id": "aud-118",
+    "user_id": "usr-011",
+    "action": "login",
+    "success": true,
+    "ip": "177.25.148.243",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-12T16:30:30Z",
+    "location": "Recife, BR"
+  },
+  {
+    "id": "aud-119",
+    "user_id": "usr-011",
+    "action": "logout",
+    "success": true,
+    "ip": "201.214.127.247",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-12T17:30:30Z",
+    "location": "Recife, BR"
+  },
+  {
+    "id": "aud-120",
+    "user_id": "usr-030",
+    "action": "login",
+    "success": true,
+    "ip": "201.167.160.49",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-12T20:36:25Z",
+    "location": "Aracaju, BR"
+  },
+  {
+    "id": "aud-121",
+    "user_id": "usr-030",
+    "action": "logout",
+    "success": true,
+    "ip": "189.239.255.226",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-09-12T22:36:25Z",
+    "location": "Aracaju, BR"
+  },
+  {
+    "id": "aud-122",
+    "user_id": "usr-028",
+    "action": "login",
+    "success": true,
+    "ip": "189.11.46.242",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-13T09:56:03Z",
+    "location": "São Luís, BR"
+  },
+  {
+    "id": "aud-123",
+    "user_id": "usr-002",
+    "action": "login",
+    "success": true,
+    "ip": "191.234.123.56",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-09-13T16:25:35Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-124",
+    "user_id": "usr-002",
+    "action": "logout",
+    "success": true,
+    "ip": "177.25.144.127",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-13T20:25:35Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-125",
+    "user_id": "usr-026",
+    "action": "login",
+    "success": true,
+    "ip": "187.4.55.111",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-14T17:42:07Z",
+    "location": "João Pessoa, BR"
+  },
+  {
+    "id": "aud-126",
+    "user_id": "usr-003",
+    "action": "login",
+    "success": true,
+    "ip": "187.187.206.94",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-09-14T17:48:57Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-127",
+    "user_id": "usr-001",
+    "action": "login",
+    "success": true,
+    "ip": "189.26.99.93",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-09-15T11:12:26Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-128",
+    "user_id": "usr-001",
+    "action": "logout",
+    "success": true,
+    "ip": "177.197.230.196",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-09-15T14:12:26Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-129",
+    "user_id": "usr-024",
+    "action": "login",
+    "success": true,
+    "ip": "201.60.65.250",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-09-15T17:24:38Z",
+    "location": "Natal, BR"
+  },
+  {
+    "id": "aud-130",
+    "user_id": "usr-024",
+    "action": "logout",
+    "success": true,
+    "ip": "189.191.173.143",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-09-16T00:24:38Z",
+    "location": "Natal, BR"
+  },
+  {
+    "id": "aud-131",
+    "user_id": "usr-013",
+    "action": "login",
+    "success": true,
+    "ip": "201.73.101.155",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-16T22:28:05Z",
+    "location": "Fortaleza, BR"
+  },
+  {
+    "id": "aud-132",
+    "user_id": "usr-014",
+    "action": "login",
+    "success": true,
+    "ip": "191.20.23.10",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-19T18:39:48Z",
+    "location": "Porto Alegre, BR"
+  },
+  {
+    "id": "aud-133",
+    "user_id": "usr-014",
+    "action": "logout",
+    "success": true,
+    "ip": "200.170.242.133",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-19T19:39:48Z",
+    "location": "Porto Alegre, BR"
+  },
+  {
+    "id": "aud-134",
+    "user_id": "usr-014",
+    "action": "login",
+    "success": true,
+    "ip": "179.71.167.239",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-09-20T15:26:53Z",
+    "location": "Porto Alegre, BR"
+  },
+  {
+    "id": "aud-135",
+    "user_id": "usr-014",
+    "action": "logout",
+    "success": true,
+    "ip": "179.201.153.152",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-09-20T23:26:53Z",
+    "location": "Porto Alegre, BR"
+  },
+  {
+    "id": "aud-136",
+    "user_id": "usr-001",
+    "action": "login",
+    "success": true,
+    "ip": "191.250.153.122",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-09-21T16:42:26Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-137",
+    "user_id": "usr-016",
+    "action": "login",
+    "success": true,
+    "ip": "187.169.56.251",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-22T08:08:32Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-138",
+    "user_id": "usr-016",
+    "action": "logout",
+    "success": true,
+    "ip": "191.157.13.153",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-22T10:08:32Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-139",
+    "user_id": "usr-002",
+    "action": "login",
+    "success": true,
+    "ip": "187.116.26.150",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-22T19:15:09Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-140",
+    "user_id": "usr-002",
+    "action": "logout",
+    "success": true,
+    "ip": "179.194.75.211",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-22T21:15:09Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-141",
+    "user_id": "usr-011",
+    "action": "login",
+    "success": true,
+    "ip": "177.56.97.5",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-23T09:36:40Z",
+    "location": "Recife, BR"
+  },
+  {
+    "id": "aud-142",
+    "user_id": "usr-011",
+    "action": "logout",
+    "success": true,
+    "ip": "187.214.77.106",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-23T14:36:40Z",
+    "location": "Recife, BR"
+  },
+  {
+    "id": "aud-143",
+    "user_id": "usr-002",
+    "action": "login",
+    "success": true,
+    "ip": "189.241.31.181",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-25T09:29:26Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-144",
+    "user_id": "usr-012",
+    "action": "login",
+    "success": true,
+    "ip": "191.106.166.170",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-25T16:02:14Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-145",
+    "user_id": "usr-002",
+    "action": "logout",
+    "success": true,
+    "ip": "191.192.160.245",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-25T16:29:26Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-146",
+    "user_id": "usr-010",
+    "action": "login",
+    "success": true,
+    "ip": "189.175.181.174",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-09-25T18:27:47Z",
+    "location": "Brasília, BR"
+  },
+  {
+    "id": "aud-147",
+    "user_id": "usr-013",
+    "action": "login",
+    "success": true,
+    "ip": "191.247.98.246",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-25T21:58:17Z",
+    "location": "Fortaleza, BR"
+  },
+  {
+    "id": "aud-148",
+    "user_id": "usr-012",
+    "action": "logout",
+    "success": true,
+    "ip": "187.152.115.242",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-09-26T00:02:14Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-149",
+    "user_id": "usr-010",
+    "action": "logout",
+    "success": true,
+    "ip": "201.147.106.177",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-26T02:27:47Z",
+    "location": "Brasília, BR"
+  },
+  {
+    "id": "aud-150",
+    "user_id": "usr-013",
+    "action": "logout",
+    "success": true,
+    "ip": "187.245.178.144",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-09-26T05:58:17Z",
+    "location": "Fortaleza, BR"
+  },
+  {
+    "id": "aud-151",
+    "user_id": "usr-018",
+    "action": "login",
+    "success": true,
+    "ip": "187.62.194.230",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-27T15:42:00Z",
+    "location": "Curitiba, BR"
+  },
+  {
+    "id": "aud-152",
+    "user_id": "usr-021",
+    "action": "login",
+    "success": true,
+    "ip": "201.176.74.75",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-09-27T18:42:47Z",
+    "location": "Belém, BR"
+  },
+  {
+    "id": "aud-153",
+    "user_id": "usr-020",
+    "action": "login",
+    "success": true,
+    "ip": "187.40.177.237",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-27T18:43:47Z",
+    "location": "Vitória, BR"
+  },
+  {
+    "id": "aud-154",
+    "user_id": "usr-018",
+    "action": "logout",
+    "success": true,
+    "ip": "200.131.245.55",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-27T20:42:00Z",
+    "location": "Curitiba, BR"
+  },
+  {
+    "id": "aud-155",
+    "user_id": "usr-021",
+    "action": "logout",
+    "success": true,
+    "ip": "201.138.139.36",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-09-27T21:42:47Z",
+    "location": "Belém, BR"
+  },
+  {
+    "id": "aud-156",
+    "user_id": "usr-020",
+    "action": "logout",
+    "success": true,
+    "ip": "191.122.124.13",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-28T00:43:47Z",
+    "location": "Vitória, BR"
+  },
+  {
+    "id": "aud-157",
+    "user_id": "usr-024",
+    "action": "login",
+    "success": true,
+    "ip": "200.119.26.26",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-28T14:39:02Z",
+    "location": "Natal, BR"
+  },
+  {
+    "id": "aud-158",
+    "user_id": "usr-012",
+    "action": "login",
+    "success": true,
+    "ip": "187.241.51.175",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-29T10:29:44Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-159",
+    "user_id": "usr-012",
+    "action": "logout",
+    "success": true,
+    "ip": "177.80.208.168",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-29T15:29:44Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-160",
+    "user_id": "usr-029",
+    "action": "login",
+    "success": true,
+    "ip": "189.102.147.83",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-09-30T10:18:43Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-161",
+    "user_id": "usr-001",
+    "action": "login",
+    "success": true,
+    "ip": "200.30.45.167",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-30T10:24:57Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-162",
+    "user_id": "usr-008",
+    "action": "login",
+    "success": true,
+    "ip": "191.19.89.107",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-09-30T12:46:33Z",
+    "location": "Santos, BR"
+  },
+  {
+    "id": "aud-163",
+    "user_id": "usr-029",
+    "action": "logout",
+    "success": true,
+    "ip": "177.203.253.48",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-09-30T15:18:43Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-164",
+    "user_id": "usr-001",
+    "action": "logout",
+    "success": true,
+    "ip": "177.4.152.146",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-09-30T17:24:57Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-165",
+    "user_id": "usr-002",
+    "action": "login",
+    "success": true,
+    "ip": "187.145.232.254",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-09-30T17:29:28Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-166",
+    "user_id": "usr-008",
+    "action": "logout",
+    "success": true,
+    "ip": "179.239.139.50",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-09-30T21:46:33Z",
+    "location": "Santos, BR"
+  },
+  {
+    "id": "aud-167",
+    "user_id": "usr-002",
+    "action": "logout",
+    "success": true,
+    "ip": "187.83.234.166",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-10-01T01:29:28Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-168",
+    "user_id": "usr-016",
+    "action": "login",
+    "success": true,
+    "ip": "200.95.7.189",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-10-03T11:04:30Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-169",
+    "user_id": "usr-004",
+    "action": "login",
+    "success": true,
+    "ip": "201.151.98.45",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-10-03T17:34:29Z",
+    "location": "Curitiba, BR"
+  },
+  {
+    "id": "aud-170",
+    "user_id": "usr-016",
+    "action": "logout",
+    "success": true,
+    "ip": "201.218.167.23",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-10-03T18:04:30Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-171",
+    "user_id": "usr-004",
+    "action": "logout",
+    "success": true,
+    "ip": "200.48.94.252",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-10-04T00:34:29Z",
+    "location": "Curitiba, BR"
+  },
+  {
+    "id": "aud-172",
+    "user_id": "usr-030",
+    "action": "login",
+    "success": true,
+    "ip": "189.165.127.2",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-10-04T07:20:10Z",
+    "location": "Aracaju, BR"
+  },
+  {
+    "id": "aud-173",
+    "user_id": "usr-025",
+    "action": "login",
+    "success": true,
+    "ip": "189.120.228.193",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-10-04T20:46:06Z",
+    "location": "Campo Grande, BR"
+  },
+  {
+    "id": "aud-174",
+    "user_id": "usr-025",
+    "action": "logout",
+    "success": true,
+    "ip": "187.154.5.67",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-10-05T01:46:06Z",
+    "location": "Campo Grande, BR"
+  },
+  {
+    "id": "aud-175",
+    "user_id": "usr-030",
+    "action": "login",
+    "success": true,
+    "ip": "200.120.31.171",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-10-05T08:27:01Z",
+    "location": "Aracaju, BR"
+  },
+  {
+    "id": "aud-176",
+    "user_id": "usr-030",
+    "action": "logout",
+    "success": true,
+    "ip": "189.157.81.104",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-10-05T14:27:01Z",
+    "location": "Aracaju, BR"
+  },
+  {
+    "id": "aud-177",
+    "user_id": "usr-020",
+    "action": "login",
+    "success": true,
+    "ip": "200.60.151.95",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-10-05T18:05:50Z",
+    "location": "Vitória, BR"
+  },
+  {
+    "id": "aud-178",
+    "user_id": "usr-020",
+    "action": "logout",
+    "success": true,
+    "ip": "179.68.244.40",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-10-05T20:05:50Z",
+    "location": "Vitória, BR"
+  },
+  {
+    "id": "aud-179",
+    "user_id": "usr-004",
+    "action": "login",
+    "success": true,
+    "ip": "200.191.212.180",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-10-06T07:54:56Z",
+    "location": "Curitiba, BR"
+  },
+  {
+    "id": "aud-180",
+    "user_id": "usr-004",
+    "action": "logout",
+    "success": true,
+    "ip": "201.111.126.175",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-10-06T08:54:56Z",
+    "location": "Curitiba, BR"
+  },
+  {
+    "id": "aud-181",
+    "user_id": "usr-004",
+    "action": "login",
+    "success": false,
+    "ip": "191.228.185.20",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-10-06T11:45:13Z",
+    "location": "Curitiba, BR"
+  },
+  {
+    "id": "aud-182",
+    "user_id": "usr-008",
+    "action": "login",
+    "success": true,
+    "ip": "191.103.76.43",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-10-07T17:01:31Z",
+    "location": "Santos, BR"
+  },
+  {
+    "id": "aud-183",
+    "user_id": "usr-008",
+    "action": "logout",
+    "success": true,
+    "ip": "201.226.59.175",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-10-07T21:01:31Z",
+    "location": "Santos, BR"
+  },
+  {
+    "id": "aud-184",
+    "user_id": "usr-015",
+    "action": "login",
+    "success": true,
+    "ip": "200.250.46.231",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-10-07T21:59:20Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-185",
+    "user_id": "usr-028",
+    "action": "login",
+    "success": true,
+    "ip": "201.28.232.34",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-10-12T12:23:19Z",
+    "location": "São Luís, BR"
+  },
+  {
+    "id": "aud-186",
+    "user_id": "usr-001",
+    "action": "login",
+    "success": true,
+    "ip": "189.29.236.173",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-10-13T07:07:56Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-187",
+    "user_id": "usr-023",
+    "action": "login",
+    "success": true,
+    "ip": "200.11.202.66",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-10-13T11:50:57Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-188",
+    "user_id": "usr-001",
+    "action": "logout",
+    "success": true,
+    "ip": "200.111.37.12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-10-13T12:07:56Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-189",
+    "user_id": "usr-023",
+    "action": "logout",
+    "success": true,
+    "ip": "187.32.30.240",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-10-13T14:50:57Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-190",
+    "user_id": "usr-020",
+    "action": "login",
+    "success": true,
+    "ip": "189.16.146.105",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-10-14T14:41:04Z",
+    "location": "Vitória, BR"
+  },
+  {
+    "id": "aud-191",
+    "user_id": "usr-020",
+    "action": "logout",
+    "success": true,
+    "ip": "201.69.215.96",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-10-14T19:41:04Z",
+    "location": "Vitória, BR"
+  },
+  {
+    "id": "aud-192",
+    "user_id": "usr-014",
+    "action": "login",
+    "success": false,
+    "ip": "189.193.192.21",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-10-16T07:35:26Z",
+    "location": "Unknown"
+  },
+  {
+    "id": "aud-193",
+    "user_id": "usr-010",
+    "action": "login",
+    "success": true,
+    "ip": "187.60.91.138",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-10-17T07:45:34Z",
+    "location": "Brasília, BR"
+  },
+  {
+    "id": "aud-194",
+    "user_id": "usr-010",
+    "action": "logout",
+    "success": true,
+    "ip": "191.65.114.214",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-10-17T08:45:34Z",
+    "location": "Brasília, BR"
+  },
+  {
+    "id": "aud-195",
+    "user_id": "usr-011",
+    "action": "login",
+    "success": true,
+    "ip": "201.11.152.119",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-10-17T20:19:36Z",
+    "location": "Recife, BR"
+  },
+  {
+    "id": "aud-196",
+    "user_id": "usr-018",
+    "action": "login",
+    "success": true,
+    "ip": "191.194.117.64",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-10-17T20:44:16Z",
+    "location": "Curitiba, BR"
+  },
+  {
+    "id": "aud-197",
+    "user_id": "usr-021",
+    "action": "login",
+    "success": true,
+    "ip": "187.79.141.49",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-10-17T22:07:06Z",
+    "location": "Belém, BR"
+  },
+  {
+    "id": "aud-198",
+    "user_id": "usr-018",
+    "action": "logout",
+    "success": true,
+    "ip": "177.214.8.62",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-10-18T03:44:16Z",
+    "location": "Curitiba, BR"
+  },
+  {
+    "id": "aud-199",
+    "user_id": "usr-021",
+    "action": "logout",
+    "success": true,
+    "ip": "177.51.17.115",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-10-18T05:07:06Z",
+    "location": "Belém, BR"
+  },
+  {
+    "id": "aud-200",
+    "user_id": "usr-011",
+    "action": "login",
+    "success": true,
+    "ip": "179.22.205.113",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-10-18T11:40:55Z",
+    "location": "Recife, BR"
+  },
+  {
+    "id": "aud-201",
+    "user_id": "usr-011",
+    "action": "logout",
+    "success": true,
+    "ip": "191.111.28.36",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-10-18T12:40:55Z",
+    "location": "Recife, BR"
+  },
+  {
+    "id": "aud-202",
+    "user_id": "usr-009",
+    "action": "login",
+    "success": true,
+    "ip": "179.163.164.61",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-10-18T14:25:44Z",
+    "location": "Florianópolis, BR"
+  },
+  {
+    "id": "aud-203",
+    "user_id": "usr-019",
+    "action": "login",
+    "success": true,
+    "ip": "179.113.211.77",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-10-18T17:47:26Z",
+    "location": "Goiânia, BR"
+  },
+  {
+    "id": "aud-204",
+    "user_id": "usr-019",
+    "action": "logout",
+    "success": true,
+    "ip": "177.89.218.143",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-10-19T02:47:26Z",
+    "location": "Goiânia, BR"
+  },
+  {
+    "id": "aud-205",
+    "user_id": "usr-009",
+    "action": "login",
+    "success": false,
+    "ip": "177.176.195.202",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-10-20T07:33:12Z",
+    "location": "Unknown"
+  },
+  {
+    "id": "aud-206",
+    "user_id": "usr-003",
+    "action": "login",
+    "success": true,
+    "ip": "189.76.153.97",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-10-20T22:40:15Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-207",
+    "user_id": "usr-003",
+    "action": "logout",
+    "success": true,
+    "ip": "201.242.123.218",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-10-21T03:40:15Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-208",
+    "user_id": "usr-015",
+    "action": "login",
+    "success": true,
+    "ip": "187.73.237.235",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-10-21T07:18:46Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-209",
+    "user_id": "usr-029",
+    "action": "login",
+    "success": false,
+    "ip": "191.211.213.143",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-10-21T13:48:32Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-210",
+    "user_id": "usr-015",
+    "action": "logout",
+    "success": true,
+    "ip": "187.104.169.166",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-10-21T15:18:46Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-211",
+    "user_id": "usr-010",
+    "action": "login",
+    "success": true,
+    "ip": "189.189.47.138",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-10-21T16:16:14Z",
+    "location": "Brasília, BR"
+  },
+  {
+    "id": "aud-212",
+    "user_id": "usr-004",
+    "action": "login",
+    "success": true,
+    "ip": "177.137.193.173",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-10-21T17:20:57Z",
+    "location": "Curitiba, BR"
+  },
+  {
+    "id": "aud-213",
+    "user_id": "usr-010",
+    "action": "logout",
+    "success": true,
+    "ip": "201.37.96.206",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-10-21T18:16:14Z",
+    "location": "Brasília, BR"
+  },
+  {
+    "id": "aud-214",
+    "user_id": "usr-004",
+    "action": "logout",
+    "success": true,
+    "ip": "189.106.170.78",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-10-21T21:20:57Z",
+    "location": "Curitiba, BR"
+  },
+  {
+    "id": "aud-215",
+    "user_id": "usr-006",
+    "action": "login",
+    "success": true,
+    "ip": "179.97.60.192",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-10-23T09:30:01Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-216",
+    "user_id": "usr-006",
+    "action": "logout",
+    "success": true,
+    "ip": "179.104.203.235",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-10-23T15:30:01Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-217",
+    "user_id": "usr-011",
+    "action": "login",
+    "success": false,
+    "ip": "191.164.144.98",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-10-23T22:07:52Z",
+    "location": "Unknown"
+  },
+  {
+    "id": "aud-218",
+    "user_id": "usr-019",
+    "action": "login",
+    "success": true,
+    "ip": "187.157.133.93",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-10-23T22:51:18Z",
+    "location": "Goiânia, BR"
+  },
+  {
+    "id": "aud-219",
+    "user_id": "usr-019",
+    "action": "logout",
+    "success": true,
+    "ip": "189.50.240.195",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-10-24T00:51:18Z",
+    "location": "Goiânia, BR"
+  },
+  {
+    "id": "aud-220",
+    "user_id": "usr-015",
+    "action": "login",
+    "success": true,
+    "ip": "179.189.160.106",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-10-25T19:14:54Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-221",
+    "user_id": "usr-015",
+    "action": "logout",
+    "success": true,
+    "ip": "191.113.74.5",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-10-26T03:14:54Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-222",
+    "user_id": "usr-013",
+    "action": "login",
+    "success": true,
+    "ip": "191.213.151.40",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-10-26T07:48:43Z",
+    "location": "Fortaleza, BR"
+  },
+  {
+    "id": "aud-223",
+    "user_id": "usr-013",
+    "action": "logout",
+    "success": true,
+    "ip": "187.117.194.146",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-10-26T10:48:43Z",
+    "location": "Fortaleza, BR"
+  },
+  {
+    "id": "aud-224",
+    "user_id": "usr-019",
+    "action": "login",
+    "success": true,
+    "ip": "189.172.131.196",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-10-26T18:14:40Z",
+    "location": "Goiânia, BR"
+  },
+  {
+    "id": "aud-225",
+    "user_id": "usr-019",
+    "action": "logout",
+    "success": true,
+    "ip": "200.251.235.44",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-10-26T21:14:40Z",
+    "location": "Goiânia, BR"
+  },
+  {
+    "id": "aud-226",
+    "user_id": "usr-006",
+    "action": "login",
+    "success": false,
+    "ip": "179.71.250.48",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-10-27T09:49:41Z",
+    "location": "Unknown"
+  },
+  {
+    "id": "aud-227",
+    "user_id": "usr-003",
+    "action": "login",
+    "success": true,
+    "ip": "201.38.24.196",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-10-27T12:51:44Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-228",
+    "user_id": "usr-002",
+    "action": "login",
+    "success": false,
+    "ip": "189.70.118.18",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-10-27T13:09:01Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-229",
+    "user_id": "usr-003",
+    "action": "logout",
+    "success": true,
+    "ip": "191.233.191.16",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-10-27T16:51:44Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-230",
+    "user_id": "usr-006",
+    "action": "login",
+    "success": true,
+    "ip": "200.249.8.2",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-10-28T21:20:21Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-231",
+    "user_id": "usr-006",
+    "action": "logout",
+    "success": true,
+    "ip": "177.8.140.138",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-10-29T04:20:21Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-232",
+    "user_id": "usr-014",
+    "action": "login",
+    "success": true,
+    "ip": "177.220.91.28",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-10-29T15:35:08Z",
+    "location": "Porto Alegre, BR"
+  },
+  {
+    "id": "aud-233",
+    "user_id": "usr-029",
+    "action": "login",
+    "success": true,
+    "ip": "191.76.123.50",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-10-29T16:13:49Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-234",
+    "user_id": "usr-029",
+    "action": "logout",
+    "success": true,
+    "ip": "201.181.136.204",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-10-29T22:13:49Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-235",
+    "user_id": "usr-014",
+    "action": "logout",
+    "success": true,
+    "ip": "177.191.207.118",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-10-29T23:35:08Z",
+    "location": "Porto Alegre, BR"
+  },
+  {
+    "id": "aud-236",
+    "user_id": "usr-012",
+    "action": "login",
+    "success": true,
+    "ip": "200.115.153.176",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-11-02T09:10:00Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-237",
+    "user_id": "usr-012",
+    "action": "login",
+    "success": true,
+    "ip": "200.16.47.104",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-11-03T16:38:47Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-238",
+    "user_id": "usr-006",
+    "action": "login",
+    "success": true,
+    "ip": "189.243.28.164",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-11-05T14:08:30Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-239",
+    "user_id": "usr-006",
+    "action": "logout",
+    "success": true,
+    "ip": "200.87.42.128",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-11-05T18:08:30Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-240",
+    "user_id": "usr-026",
+    "action": "login",
+    "success": true,
+    "ip": "200.169.48.230",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-11-05T22:04:05Z",
+    "location": "João Pessoa, BR"
+  },
+  {
+    "id": "aud-241",
+    "user_id": "usr-026",
+    "action": "logout",
+    "success": true,
+    "ip": "179.108.243.70",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-11-06T00:04:05Z",
+    "location": "João Pessoa, BR"
+  },
+  {
+    "id": "aud-242",
+    "user_id": "usr-015",
+    "action": "login",
+    "success": true,
+    "ip": "177.143.16.46",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-11-06T19:12:58Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-243",
+    "user_id": "usr-015",
+    "action": "login",
+    "success": true,
+    "ip": "177.106.73.193",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-11-07T09:17:49Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-244",
+    "user_id": "usr-015",
+    "action": "logout",
+    "success": true,
+    "ip": "177.153.83.145",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-11-07T18:17:49Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-245",
+    "user_id": "usr-023",
+    "action": "login",
+    "success": false,
+    "ip": "191.199.169.99",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-11-08T15:51:11Z",
+    "location": "Unknown"
+  },
+  {
+    "id": "aud-246",
+    "user_id": "usr-029",
+    "action": "login",
+    "success": true,
+    "ip": "200.40.177.14",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-11-09T07:31:47Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-247",
+    "user_id": "usr-014",
+    "action": "login",
+    "success": true,
+    "ip": "189.118.38.88",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-11-09T07:40:38Z",
+    "location": "Porto Alegre, BR"
+  },
+  {
+    "id": "aud-248",
+    "user_id": "usr-029",
+    "action": "logout",
+    "success": true,
+    "ip": "201.167.15.163",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-11-09T16:31:47Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-249",
+    "user_id": "usr-024",
+    "action": "login",
+    "success": true,
+    "ip": "201.230.251.59",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-11-10T09:30:28Z",
+    "location": "Natal, BR"
+  },
+  {
+    "id": "aud-250",
+    "user_id": "usr-024",
+    "action": "logout",
+    "success": true,
+    "ip": "191.192.221.48",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-11-10T11:30:28Z",
+    "location": "Natal, BR"
+  },
+  {
+    "id": "aud-251",
+    "user_id": "usr-020",
+    "action": "login",
+    "success": true,
+    "ip": "177.151.126.183",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-11-11T14:30:01Z",
+    "location": "Vitória, BR"
+  },
+  {
+    "id": "aud-252",
+    "user_id": "usr-008",
+    "action": "login",
+    "success": true,
+    "ip": "177.137.78.98",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-11-11T20:23:40Z",
+    "location": "Santos, BR"
+  },
+  {
+    "id": "aud-253",
+    "user_id": "usr-008",
+    "action": "logout",
+    "success": true,
+    "ip": "200.199.162.93",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-11-11T23:23:40Z",
+    "location": "Santos, BR"
+  },
+  {
+    "id": "aud-254",
+    "user_id": "usr-012",
+    "action": "login",
+    "success": true,
+    "ip": "177.2.157.114",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-11-12T13:40:13Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-255",
+    "user_id": "usr-012",
+    "action": "logout",
+    "success": true,
+    "ip": "201.138.52.34",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-11-12T17:40:13Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-256",
+    "user_id": "usr-013",
+    "action": "login",
+    "success": true,
+    "ip": "179.220.229.143",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-11-13T22:22:26Z",
+    "location": "Fortaleza, BR"
+  },
+  {
+    "id": "aud-257",
+    "user_id": "usr-011",
+    "action": "login",
+    "success": true,
+    "ip": "177.13.45.91",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-11-14T14:07:35Z",
+    "location": "Recife, BR"
+  },
+  {
+    "id": "aud-258",
+    "user_id": "usr-020",
+    "action": "login",
+    "success": true,
+    "ip": "191.166.197.4",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-11-15T11:48:14Z",
+    "location": "Vitória, BR"
+  },
+  {
+    "id": "aud-259",
+    "user_id": "usr-007",
+    "action": "login",
+    "success": true,
+    "ip": "189.198.43.186",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-11-15T14:06:44Z",
+    "location": "Salvador, BR"
+  },
+  {
+    "id": "aud-260",
+    "user_id": "usr-012",
+    "action": "login",
+    "success": true,
+    "ip": "191.86.194.44",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-11-15T14:59:16Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-261",
+    "user_id": "usr-028",
+    "action": "login",
+    "success": true,
+    "ip": "187.154.137.127",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-11-18T09:17:28Z",
+    "location": "São Luís, BR"
+  },
+  {
+    "id": "aud-262",
+    "user_id": "usr-028",
+    "action": "logout",
+    "success": true,
+    "ip": "177.85.222.71",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-11-18T17:17:28Z",
+    "location": "São Luís, BR"
+  },
+  {
+    "id": "aud-263",
+    "user_id": "usr-029",
+    "action": "login",
+    "success": false,
+    "ip": "187.247.39.93",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-11-19T14:25:38Z",
+    "location": "Unknown"
+  },
+  {
+    "id": "aud-264",
+    "user_id": "usr-001",
+    "action": "login",
+    "success": true,
+    "ip": "200.253.100.118",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2026-11-20T10:38:27Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-265",
+    "user_id": "usr-019",
+    "action": "login",
+    "success": false,
+    "ip": "179.155.3.243",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-11-20T18:46:08Z",
+    "location": "Goiânia, BR"
+  },
+  {
+    "id": "aud-266",
+    "user_id": "usr-027",
+    "action": "login",
+    "success": true,
+    "ip": "191.194.168.113",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-11-21T12:17:44Z",
+    "location": "Blumenau, BR"
+  },
+  {
+    "id": "aud-267",
+    "user_id": "usr-006",
+    "action": "login",
+    "success": false,
+    "ip": "189.69.153.83",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-11-21T14:12:53Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-268",
+    "user_id": "usr-028",
+    "action": "login",
+    "success": true,
+    "ip": "179.203.163.75",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)",
+    "timestamp": "2026-11-24T12:55:09Z",
+    "location": "São Luís, BR"
+  },
+  {
+    "id": "aud-269",
+    "user_id": "usr-001",
+    "action": "login",
+    "success": false,
+    "ip": "191.124.166.97",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2026-11-24T13:23:27Z",
+    "location": "Unknown"
+  },
+  {
+    "id": "aud-270",
+    "user_id": "usr-028",
+    "action": "logout",
+    "success": true,
+    "ip": "189.186.58.239",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2026-11-24T15:55:09Z",
+    "location": "São Luís, BR"
   }
 ]

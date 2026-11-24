@@ -26,8 +26,12 @@ mcp = MCPServer(
     instructions=(
         "Você tem acesso à API de Protocolos Corporativos da empresa. "
         "Use as tools para consultar usuários, protocolos (compliance / risk / innovation), "
-        "documentos, auditorias de login, custos e o resumo geral. "
-        "Os dados são estáticos e servem para demonstração de integração via MCP."
+        "documentos, auditorias de login, custos, pagamentos e o resumo geral. "
+        "Cada usuário tem cidade e estado (UF). Os pagamentos vão de jan/2025 a dez/2027: "
+        "os até hoje têm status 'pago' e os futuros 'previsto'. "
+        "Para totais e rankings prefira get_payments_summary (já agregado) em vez de somar list_payments. "
+        "As respostas trazem 'today' com a data de referência; use-a para interpretar 'este mês', 'próximo mês' etc. "
+        "Os dados são fictícios e servem para demonstração de integração via MCP."
     ),
 )
 
@@ -55,13 +59,16 @@ def _get(path: str, params: dict | None = None) -> dict | list:
 def list_users(
     active: Optional[bool] = None,
     department: Optional[str] = None,
+    state: Optional[str] = None,
 ) -> list:
-    """Lista os usuários da empresa. Pode filtrar por ativo/inativo e por departamento (Compliance, Riscos, Inovação)."""
+    """Lista os usuários da empresa (com cidade e estado). Filtros: ativo/inativo, departamento (Compliance, Riscos, Inovação) e estado (UF, ex: SP, MG, BA)."""
     params = {}
     if active is not None:
         params["active"] = active
     if department:
         params["department"] = department
+    if state:
+        params["state"] = state
     return _get("/users", params)
 
 
@@ -76,7 +83,7 @@ def list_protocols(
     type: Optional[str] = None,
     status: Optional[str] = None,
 ) -> list:
-    """Lista os protocolos corporativos. Tipos: compliance, risk, innovation. Status: ativo, em_revisao."""
+    """Lista os protocolos corporativos. Tipos: compliance, risk, innovation. Status (calculado pela data de hoje): ativo, em_revisao, planejado, encerrado."""
     params = {}
     if type:
         params["type"] = type
@@ -145,9 +152,56 @@ def list_emails(
     return _get("/emails", params)
 
 
+def _payment_params(**kwargs) -> dict:
+    return {k: v for k, v in kwargs.items() if v is not None}
+
+
+@mcp.tool()
+def list_payments(
+    user_id: Optional[str] = None,
+    protocol_id: Optional[str] = None,
+    category: Optional[str] = None,
+    state: Optional[str] = None,
+    department: Optional[str] = None,
+    month: Optional[str] = None,
+    start_date: Optional[str] = None,
+    end_date: Optional[str] = None,
+    status: Optional[str] = None,
+) -> list:
+    """Lista pagamentos individuais (data, usuário, estado, protocolo, categoria, valor, status pago/previsto).
+    Categorias: setup, mensalidade, documento, viagem, treinamento, software, consultoria, equipamento, alimentacao.
+    month no formato AAAA-MM; start_date/end_date AAAA-MM-DD; status: pago | previsto.
+    Use filtros: sem filtro retorna mais de mil linhas."""
+    return _get("/payments", _payment_params(
+        user_id=user_id, protocol_id=protocol_id, category=category, state=state, department=department,
+        month=month, start_date=start_date, end_date=end_date, status=status))
+
+
+@mcp.tool()
+def get_payments_summary(
+    group_by: str = "user",
+    user_id: Optional[str] = None,
+    protocol_id: Optional[str] = None,
+    category: Optional[str] = None,
+    state: Optional[str] = None,
+    department: Optional[str] = None,
+    month: Optional[str] = None,
+    start_date: Optional[str] = None,
+    end_date: Optional[str] = None,
+    status: Optional[str] = None,
+) -> dict:
+    """Totais de pagamentos agrupados e ordenados do maior para o menor (por mês: em ordem cronológica).
+    group_by: user | state | category | month | protocol | department.
+    Mesmos filtros de list_payments. Ex: quem gastou mais este mês -> group_by='user', month='AAAA-MM'.
+    Cada grupo traz total, paid (já pago), forecast (previsto) e count."""
+    return _get("/payments/summary", _payment_params(
+        group_by=group_by, user_id=user_id, protocol_id=protocol_id, category=category, state=state,
+        department=department, month=month, start_date=start_date, end_date=end_date, status=status))
+
+
 @mcp.tool()
 def get_summary() -> dict:
-    """Retorna um resumo geral: totais de usuários, protocolos, valor total, logins com sucesso/falha e custos. Ideal para dashboards e artefatos."""
+    """Retorna um resumo geral: data de hoje, usuários (por estado), protocolos (por tipo e status), pagamentos (pago, previsto, mês atual), logins e custos. Ideal para dashboards e artefatos."""
     return _get("/summary")
 
 

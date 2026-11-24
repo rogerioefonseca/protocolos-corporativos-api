@@ -4,77 +4,303 @@
     "type": "compliance",
     "name": "Protocolo LGPD & Privacidade 2025",
     "description": "Controle de conformidade com a Lei Geral de Proteção de Dados e políticas internas de privacidade.",
-    "value": 185000.00,
+    "value": 185000.0,
     "currency": "BRL",
     "status": "ativo",
     "owner_user_id": "usr-001",
     "start_date": "2025-01-01",
     "end_date": "2025-12-31",
-    "document_ids": ["doc-001", "doc-002", "doc-003"]
+    "document_ids": [
+      "doc-001",
+      "doc-002",
+      "doc-003"
+    ]
   },
   {
     "id": "prot-comp-02",
     "type": "compliance",
     "name": "Protocolo SOX Controles Financeiros",
     "description": "Controles internos exigidos pela Sarbanes-Oxley para relatórios financeiros.",
-    "value": 320000.00,
+    "value": 320000.0,
     "currency": "BRL",
     "status": "ativo",
     "owner_user_id": "usr-004",
     "start_date": "2024-07-01",
     "end_date": "2026-06-30",
-    "document_ids": ["doc-004", "doc-005"]
+    "document_ids": [
+      "doc-004",
+      "doc-005"
+    ]
   },
   {
     "id": "prot-risk-01",
     "type": "risk",
     "name": "Protocolo de Riscos Cibernéticos",
     "description": "Identificação, avaliação e mitigação de riscos de segurança da informação e ciberataques.",
-    "value": 275000.00,
+    "value": 275000.0,
     "currency": "BRL",
     "status": "ativo",
     "owner_user_id": "usr-002",
     "start_date": "2025-03-01",
     "end_date": "2026-02-28",
-    "document_ids": ["doc-006", "doc-007", "doc-008"]
+    "document_ids": [
+      "doc-006",
+      "doc-007",
+      "doc-008"
+    ]
   },
   {
     "id": "prot-risk-02",
     "type": "risk",
     "name": "Protocolo de Continuidade de Negócios",
     "description": "Planos de continuidade e recuperação de desastres (BCP/DRP).",
-    "value": 150000.00,
+    "value": 150000.0,
     "currency": "BRL",
     "status": "em_revisao",
     "owner_user_id": "usr-005",
     "start_date": "2024-10-01",
     "end_date": "2025-09-30",
-    "document_ids": ["doc-009"]
+    "document_ids": [
+      "doc-009"
+    ]
   },
   {
     "id": "prot-inn-01",
     "type": "innovation",
     "name": "Protocolo de Inovação Aberta",
     "description": "Framework para projetos de inovação com startups e universidades.",
-    "value": 420000.00,
+    "value": 420000.0,
     "currency": "BRL",
     "status": "ativo",
     "owner_user_id": "usr-003",
     "start_date": "2025-04-15",
     "end_date": "2026-04-14",
-    "document_ids": ["doc-010", "doc-011", "doc-012"]
+    "document_ids": [
+      "doc-010",
+      "doc-011",
+      "doc-012"
+    ]
   },
   {
     "id": "prot-inn-02",
     "type": "innovation",
     "name": "Protocolo Transformação Digital Core",
     "description": "Roadmap e governança da transformação digital dos sistemas core da empresa.",
-    "value": 890000.00,
+    "value": 890000.0,
     "currency": "BRL",
     "status": "ativo",
     "owner_user_id": "usr-006",
     "start_date": "2025-01-01",
     "end_date": "2027-12-31",
-    "document_ids": ["doc-013", "doc-014"]
+    "document_ids": [
+      "doc-013",
+      "doc-014"
+    ]
+  },
+  {
+    "id": "prot-comp-03",
+    "type": "compliance",
+    "name": "Protocolo Anticorrupção (Lei 12.846)",
+    "description": "Programa de integridade, due diligence de terceiros e canal de denúncias.",
+    "value": 289000.0,
+    "currency": "BRL",
+    "status": "ativo",
+    "owner_user_id": "usr-007",
+    "start_date": "2025-06-01",
+    "end_date": "2027-05-31",
+    "document_ids": [
+      "doc-015",
+      "doc-016",
+      "doc-017"
+    ]
+  },
+  {
+    "id": "prot-comp-04",
+    "type": "compliance",
+    "name": "Protocolo ESG & Relato de Sustentabilidade",
+    "description": "Coleta de indicadores ESG e preparação do relatório anual de sustentabilidade.",
+    "value": 262000.0,
+    "currency": "BRL",
+    "status": "ativo",
+    "owner_user_id": "usr-010",
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31",
+    "document_ids": [
+      "doc-018",
+      "doc-019",
+      "doc-020",
+      "doc-021",
+      "doc-022"
+    ]
+  },
+  {
+    "id": "prot-comp-05",
+    "type": "compliance",
+    "name": "Protocolo PCI-DSS Pagamentos",
+    "description": "Adequação dos fluxos de cartão ao padrão PCI-DSS 4.0.",
+    "value": 217000.0,
+    "currency": "BRL",
+    "status": "ativo",
+    "owner_user_id": "usr-013",
+    "start_date": "2026-09-01",
+    "end_date": "2028-02-29",
+    "document_ids": [
+      "doc-023",
+      "doc-024",
+      "doc-025",
+      "doc-026"
+    ]
+  },
+  {
+    "id": "prot-comp-06",
+    "type": "compliance",
+    "name": "Protocolo LGPD & Privacidade 2026-2027",
+    "description": "Renovação do programa de privacidade, com foco em IA e dados sensíveis.",
+    "value": 302000.0,
+    "currency": "BRL",
+    "status": "em_revisao",
+    "owner_user_id": "usr-016",
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31",
+    "document_ids": [
+      "doc-027",
+      "doc-028"
+    ]
+  },
+  {
+    "id": "prot-risk-03",
+    "type": "risk",
+    "name": "Protocolo de Riscos de Terceiros",
+    "description": "Avaliação contínua de fornecedores críticos e riscos da cadeia de suprimentos.",
+    "value": 398000.0,
+    "currency": "BRL",
+    "status": "ativo",
+    "owner_user_id": "usr-008",
+    "start_date": "2025-09-01",
+    "end_date": "2027-08-31",
+    "document_ids": [
+      "doc-029",
+      "doc-030"
+    ]
+  },
+  {
+    "id": "prot-risk-04",
+    "type": "risk",
+    "name": "Protocolo de Prevenção a Fraudes",
+    "description": "Monitoramento transacional e modelos de detecção de fraude.",
+    "value": 393000.0,
+    "currency": "BRL",
+    "status": "ativo",
+    "owner_user_id": "usr-011",
+    "start_date": "2026-03-01",
+    "end_date": "2028-02-29",
+    "document_ids": [
+      "doc-031",
+      "doc-032"
+    ]
+  },
+  {
+    "id": "prot-risk-05",
+    "type": "risk",
+    "name": "Protocolo de Riscos Climáticos",
+    "description": "Mapeamento de riscos físicos e de transição climática nas operações.",
+    "value": 388000.0,
+    "currency": "BRL",
+    "status": "ativo",
+    "owner_user_id": "usr-014",
+    "start_date": "2027-02-01",
+    "end_date": "2028-12-31",
+    "document_ids": [
+      "doc-033",
+      "doc-034",
+      "doc-035"
+    ]
+  },
+  {
+    "id": "prot-risk-06",
+    "type": "risk",
+    "name": "Protocolo de Resposta a Incidentes 2.0",
+    "description": "Atualização do plano de resposta a incidentes e exercícios de mesa trimestrais.",
+    "value": 244000.0,
+    "currency": "BRL",
+    "status": "em_revisao",
+    "owner_user_id": "usr-020",
+    "start_date": "2026-05-01",
+    "end_date": "2027-04-30",
+    "document_ids": [
+      "doc-036",
+      "doc-037",
+      "doc-038"
+    ]
+  },
+  {
+    "id": "prot-inn-03",
+    "type": "innovation",
+    "name": "Protocolo IA Generativa na Operação",
+    "description": "Pilotos de IA generativa em atendimento, jurídico e backoffice.",
+    "value": 650000.0,
+    "currency": "BRL",
+    "status": "ativo",
+    "owner_user_id": "usr-009",
+    "start_date": "2025-10-01",
+    "end_date": "2027-09-30",
+    "document_ids": [
+      "doc-039",
+      "doc-040",
+      "doc-041",
+      "doc-042"
+    ]
+  },
+  {
+    "id": "prot-inn-04",
+    "type": "innovation",
+    "name": "Protocolo Hub de Startups Nordeste",
+    "description": "Programa de conexão com startups do Nordeste e provas de conceito.",
+    "value": 469000.0,
+    "currency": "BRL",
+    "status": "ativo",
+    "owner_user_id": "usr-012",
+    "start_date": "2026-02-01",
+    "end_date": "2027-07-31",
+    "document_ids": [
+      "doc-043",
+      "doc-044",
+      "doc-045",
+      "doc-046"
+    ]
+  },
+  {
+    "id": "prot-inn-05",
+    "type": "innovation",
+    "name": "Protocolo Dados como Produto",
+    "description": "Plataforma de dados com domínios, catálogo e governança federada.",
+    "value": 569000.0,
+    "currency": "BRL",
+    "status": "ativo",
+    "owner_user_id": "usr-015",
+    "start_date": "2026-07-01",
+    "end_date": "2028-06-30",
+    "document_ids": [
+      "doc-047",
+      "doc-048"
+    ]
+  },
+  {
+    "id": "prot-inn-06",
+    "type": "innovation",
+    "name": "Protocolo Experiência do Cliente Omnicanal",
+    "description": "Redesenho da jornada do cliente em canais digitais e físicos.",
+    "value": 600000.0,
+    "currency": "BRL",
+    "status": "ativo",
+    "owner_user_id": "usr-018",
+    "start_date": "2027-01-01",
+    "end_date": "2028-12-31",
+    "document_ids": [
+      "doc-049",
+      "doc-050",
+      "doc-051",
+      "doc-052"
+    ]
   }
 ]

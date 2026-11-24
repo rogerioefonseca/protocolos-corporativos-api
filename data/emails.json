@@ -70,5 +70,285 @@
     "type": "pessoal",
     "primary": false,
     "verified": true
+  },
+  {
+    "id": "email-010",
+    "user_id": "usr-007",
+    "address": "gabriela.rocha@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-011",
+    "user_id": "usr-007",
+    "address": "gabriela_rocha@hotmail.com",
+    "type": "pessoal",
+    "primary": false,
+    "verified": true
+  },
+  {
+    "id": "email-012",
+    "user_id": "usr-008",
+    "address": "henrique.almeida@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-013",
+    "user_id": "usr-009",
+    "address": "isabela.martins@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-014",
+    "user_id": "usr-010",
+    "address": "joao.lima@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-015",
+    "user_id": "usr-010",
+    "address": "joao_lima@hotmail.com",
+    "type": "pessoal",
+    "primary": false,
+    "verified": true
+  },
+  {
+    "id": "email-016",
+    "user_id": "usr-011",
+    "address": "karina.souza@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-017",
+    "user_id": "usr-011",
+    "address": "karina_souza@gmail.com",
+    "type": "pessoal",
+    "primary": false,
+    "verified": true
+  },
+  {
+    "id": "email-018",
+    "user_id": "usr-012",
+    "address": "lucas.barbosa@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-019",
+    "user_id": "usr-013",
+    "address": "mariana.carvalho@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-020",
+    "user_id": "usr-014",
+    "address": "nicolas.ribeiro@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-021",
+    "user_id": "usr-015",
+    "address": "olivia.gomes@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-022",
+    "user_id": "usr-016",
+    "address": "paulo.dias@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-023",
+    "user_id": "usr-017",
+    "address": "quesia.nascimento@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-024",
+    "user_id": "usr-017",
+    "address": "quesia_nascimento@outlook.com",
+    "type": "pessoal",
+    "primary": false,
+    "verified": false
+  },
+  {
+    "id": "email-025",
+    "user_id": "usr-018",
+    "address": "rafael.teixeira@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-026",
+    "user_id": "usr-019",
+    "address": "sabrina.moreira@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-027",
+    "user_id": "usr-020",
+    "address": "thiago.cardoso@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-028",
+    "user_id": "usr-020",
+    "address": "thiago_cardoso@hotmail.com",
+    "type": "pessoal",
+    "primary": false,
+    "verified": true
+  },
+  {
+    "id": "email-029",
+    "user_id": "usr-021",
+    "address": "ursula.pires@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-030",
+    "user_id": "usr-021",
+    "address": "ursula_pires@outlook.com",
+    "type": "pessoal",
+    "primary": false,
+    "verified": true
+  },
+  {
+    "id": "email-031",
+    "user_id": "usr-022",
+    "address": "vinicius.araujo@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-032",
+    "user_id": "usr-023",
+    "address": "wesley.fernandes@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-033",
+    "user_id": "usr-023",
+    "address": "wesley_fernandes@gmail.com",
+    "type": "pessoal",
+    "primary": false,
+    "verified": false
+  },
+  {
+    "id": "email-034",
+    "user_id": "usr-024",
+    "address": "yasmin.castro@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-035",
+    "user_id": "usr-024",
+    "address": "yasmin_castro@proton.me",
+    "type": "pessoal",
+    "primary": false,
+    "verified": true
+  },
+  {
+    "id": "email-036",
+    "user_id": "usr-025",
+    "address": "arthur.monteiro@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-037",
+    "user_id": "usr-026",
+    "address": "beatriz.lopes@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-038",
+    "user_id": "usr-027",
+    "address": "caio.batista@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-039",
+    "user_id": "usr-027",
+    "address": "caio_batista@outlook.com",
+    "type": "pessoal",
+    "primary": false,
+    "verified": true
+  },
+  {
+    "id": "email-040",
+    "user_id": "usr-028",
+    "address": "debora.freitas@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-041",
+    "user_id": "usr-028",
+    "address": "debora_freitas@gmail.com",
+    "type": "pessoal",
+    "primary": false,
+    "verified": false
+  },
+  {
+    "id": "email-042",
+    "user_id": "usr-029",
+    "address": "eduardo.vieira@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
+  },
+  {
+    "id": "email-043",
+    "user_id": "usr-029",
+    "address": "eduardo_vieira@yahoo.com.br",
+    "type": "pessoal",
+    "primary": false,
+    "verified": true
+  },
+  {
+    "id": "email-044",
+    "user_id": "usr-030",
+    "address": "fernanda.rezende@empresa.com.br",
+    "type": "corporativo",
+    "primary": true,
+    "verified": true
   }
 ]

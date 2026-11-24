@@ -9,7 +9,10 @@
     "created_at": "2025-01-10T09:00:00Z",
     "updated_at": "2025-06-15T14:20:00Z",
     "size_kb": 420,
-    "tags": ["lgpd", "privacidade"]
+    "tags": [
+      "lgpd",
+      "privacidade"
+    ]
   },
   {
     "id": "doc-002",
@@ -21,7 +24,10 @@
     "created_at": "2025-02-01T11:30:00Z",
     "updated_at": "2025-09-20T16:45:00Z",
     "size_kb": 1850,
-    "tags": ["lgpd", "ropa"]
+    "tags": [
+      "lgpd",
+      "ropa"
+    ]
   },
   {
     "id": "doc-003",
@@ -33,7 +39,10 @@
     "created_at": "2025-09-05T08:15:00Z",
     "updated_at": "2025-09-05T08:15:00Z",
     "size_kb": 310,
-    "tags": ["auditoria", "lgpd"]
+    "tags": [
+      "auditoria",
+      "lgpd"
+    ]
   },
   {
     "id": "doc-004",
@@ -45,7 +54,10 @@
     "created_at": "2024-08-12T10:00:00Z",
     "updated_at": "2025-10-01T13:00:00Z",
     "size_kb": 2200,
-    "tags": ["sox", "controles"]
+    "tags": [
+      "sox",
+      "controles"
+    ]
   },
   {
     "id": "doc-005",
@@ -57,7 +69,10 @@
     "created_at": "2025-07-22T15:40:00Z",
     "updated_at": "2025-10-18T09:10:00Z",
     "size_kb": 980,
-    "tags": ["sox", "testes"]
+    "tags": [
+      "sox",
+      "testes"
+    ]
   },
   {
     "id": "doc-006",
@@ -69,7 +84,10 @@
     "created_at": "2025-03-05T08:00:00Z",
     "updated_at": "2025-08-30T11:25:00Z",
     "size_kb": 560,
-    "tags": ["ciberseguranca", "politica"]
+    "tags": [
+      "ciberseguranca",
+      "politica"
+    ]
   },
   {
     "id": "doc-007",
@@ -81,7 +99,10 @@
     "created_at": "2025-04-10T14:00:00Z",
     "updated_at": "2025-09-12T16:30:00Z",
     "size_kb": 1450,
-    "tags": ["risco", "avaliacao"]
+    "tags": [
+      "risco",
+      "avaliacao"
+    ]
   },
   {
     "id": "doc-008",
@@ -93,7 +114,10 @@
     "created_at": "2025-03-20T09:45:00Z",
     "updated_at": "2025-10-05T10:00:00Z",
     "size_kb": 780,
-    "tags": ["incidente", "resposta"]
+    "tags": [
+      "incidente",
+      "resposta"
+    ]
   },
   {
     "id": "doc-009",
@@ -105,7 +129,10 @@
     "created_at": "2024-11-15T13:20:00Z",
     "updated_at": "2025-05-28T17:00:00Z",
     "size_kb": 2100,
-    "tags": ["bcp", "continuidade"]
+    "tags": [
+      "bcp",
+      "continuidade"
+    ]
   },
   {
     "id": "doc-010",
@@ -117,7 +144,10 @@
     "created_at": "2025-05-01T10:30:00Z",
     "updated_at": "2025-08-14T12:00:00Z",
     "size_kb": 640,
-    "tags": ["inovacao", "startups"]
+    "tags": [
+      "inovacao",
+      "startups"
+    ]
   },
   {
     "id": "doc-011",
@@ -129,7 +159,10 @@
     "created_at": "2025-04-20T15:00:00Z",
     "updated_at": "2025-07-03T09:40:00Z",
     "size_kb": 390,
-    "tags": ["juridico", "contrato"]
+    "tags": [
+      "juridico",
+      "contrato"
+    ]
   },
   {
     "id": "doc-012",
@@ -141,7 +174,10 @@
     "created_at": "2025-10-01T08:00:00Z",
     "updated_at": "2025-10-01T08:00:00Z",
     "size_kb": 1250,
-    "tags": ["dashboard", "metricas"]
+    "tags": [
+      "dashboard",
+      "metricas"
+    ]
   },
   {
     "id": "doc-013",
@@ -153,7 +189,10 @@
     "created_at": "2025-01-15T11:00:00Z",
     "updated_at": "2025-09-25T14:15:00Z",
     "size_kb": 3200,
-    "tags": ["transformacao", "roadmap"]
+    "tags": [
+      "transformacao",
+      "roadmap"
+    ]
   },
   {
     "id": "doc-014",
@@ -165,6 +204,579 @@
     "created_at": "2025-02-28T16:45:00Z",
     "updated_at": "2025-10-10T10:30:00Z",
     "size_kb": 2800,
-    "tags": ["arquitetura", "core"]
+    "tags": [
+      "arquitetura",
+      "core"
+    ]
+  },
+  {
+    "id": "doc-015",
+    "protocol_id": "prot-comp-03",
+    "title": "Checklist de Conformidade - Anticorrupção (Lei 12.846)",
+    "type": "checklist",
+    "format": "pdf",
+    "version": "3.8",
+    "created_at": "2025-10-26T16:00:00Z",
+    "updated_at": "2025-11-26T12:00:00Z",
+    "size_kb": 3209,
+    "tags": [
+      "compliance",
+      "checklist"
+    ]
+  },
+  {
+    "id": "doc-016",
+    "protocol_id": "prot-comp-03",
+    "title": "Relatório de Auditoria - Anticorrupção (Lei 12.846)",
+    "type": "relatorio",
+    "format": "pdf",
+    "version": "2.3",
+    "created_at": "2027-01-24T10:00:00Z",
+    "updated_at": "2027-03-16T16:00:00Z",
+    "size_kb": 2171,
+    "tags": [
+      "compliance",
+      "relatorio"
+    ]
+  },
+  {
+    "id": "doc-017",
+    "protocol_id": "prot-comp-03",
+    "title": "Política - Anticorrupção (Lei 12.846)",
+    "type": "politica",
+    "format": "pdf",
+    "version": "1.2",
+    "created_at": "2025-07-24T18:00:00Z",
+    "updated_at": "2025-11-11T10:00:00Z",
+    "size_kb": 3394,
+    "tags": [
+      "compliance",
+      "politica"
+    ]
+  },
+  {
+    "id": "doc-018",
+    "protocol_id": "prot-comp-04",
+    "title": "Política - ESG & Relato de Sustentabilidade",
+    "type": "politica",
+    "format": "pdf",
+    "version": "3.7",
+    "created_at": "2027-02-04T16:00:00Z",
+    "updated_at": "2027-03-24T12:00:00Z",
+    "size_kb": 2416,
+    "tags": [
+      "compliance",
+      "politica"
+    ]
+  },
+  {
+    "id": "doc-019",
+    "protocol_id": "prot-comp-04",
+    "title": "Política - ESG & Relato de Sustentabilidade",
+    "type": "politica",
+    "format": "pdf",
+    "version": "1.8",
+    "created_at": "2027-12-03T12:00:00Z",
+    "updated_at": "2028-03-04T18:00:00Z",
+    "size_kb": 1543,
+    "tags": [
+      "compliance",
+      "politica"
+    ]
+  },
+  {
+    "id": "doc-020",
+    "protocol_id": "prot-comp-04",
+    "title": "Política - ESG & Relato de Sustentabilidade",
+    "type": "politica",
+    "format": "pdf",
+    "version": "1.7",
+    "created_at": "2026-11-02T08:00:00Z",
+    "updated_at": "2026-12-27T12:00:00Z",
+    "size_kb": 2200,
+    "tags": [
+      "compliance",
+      "politica"
+    ]
+  },
+  {
+    "id": "doc-021",
+    "protocol_id": "prot-comp-04",
+    "title": "Matriz de Controles - ESG & Relato de Sustentabilidade",
+    "type": "matriz",
+    "format": "xlsx",
+    "version": "1.4",
+    "created_at": "2027-06-09T18:00:00Z",
+    "updated_at": "2027-10-03T16:00:00Z",
+    "size_kb": 2644,
+    "tags": [
+      "compliance",
+      "matriz"
+    ]
+  },
+  {
+    "id": "doc-022",
+    "protocol_id": "prot-comp-04",
+    "title": "Matriz de Controles - ESG & Relato de Sustentabilidade",
+    "type": "matriz",
+    "format": "xlsx",
+    "version": "1.8",
+    "created_at": "2026-06-11T16:00:00Z",
+    "updated_at": "2026-07-28T08:00:00Z",
+    "size_kb": 2603,
+    "tags": [
+      "compliance",
+      "matriz"
+    ]
+  },
+  {
+    "id": "doc-023",
+    "protocol_id": "prot-comp-05",
+    "title": "Relatório de Auditoria - PCI-DSS Pagamentos",
+    "type": "relatorio",
+    "format": "pdf",
+    "version": "2.4",
+    "created_at": "2026-09-15T11:00:00Z",
+    "updated_at": "2026-09-29T08:00:00Z",
+    "size_kb": 1136,
+    "tags": [
+      "compliance",
+      "relatorio"
+    ]
+  },
+  {
+    "id": "doc-024",
+    "protocol_id": "prot-comp-05",
+    "title": "Política - PCI-DSS Pagamentos",
+    "type": "politica",
+    "format": "pdf",
+    "version": "2.1",
+    "created_at": "2026-10-19T16:00:00Z",
+    "updated_at": "2027-01-20T10:00:00Z",
+    "size_kb": 675,
+    "tags": [
+      "compliance",
+      "politica"
+    ]
+  },
+  {
+    "id": "doc-025",
+    "protocol_id": "prot-comp-05",
+    "title": "Relatório de Auditoria - PCI-DSS Pagamentos",
+    "type": "relatorio",
+    "format": "pdf",
+    "version": "2.8",
+    "created_at": "2027-06-14T17:00:00Z",
+    "updated_at": "2027-07-05T14:00:00Z",
+    "size_kb": 1017,
+    "tags": [
+      "compliance",
+      "relatorio"
+    ]
+  },
+  {
+    "id": "doc-026",
+    "protocol_id": "prot-comp-05",
+    "title": "Matriz de Controles - PCI-DSS Pagamentos",
+    "type": "matriz",
+    "format": "xlsx",
+    "version": "2.5",
+    "created_at": "2027-09-06T15:00:00Z",
+    "updated_at": "2027-10-15T16:00:00Z",
+    "size_kb": 1999,
+    "tags": [
+      "compliance",
+      "matriz"
+    ]
+  },
+  {
+    "id": "doc-027",
+    "protocol_id": "prot-comp-06",
+    "title": "Matriz de Controles - LGPD & Privacidade 2026-2027",
+    "type": "matriz",
+    "format": "xlsx",
+    "version": "2.0",
+    "created_at": "2026-08-24T17:00:00Z",
+    "updated_at": "2026-09-01T16:00:00Z",
+    "size_kb": 1092,
+    "tags": [
+      "compliance",
+      "matriz"
+    ]
+  },
+  {
+    "id": "doc-028",
+    "protocol_id": "prot-comp-06",
+    "title": "Matriz de Controles - LGPD & Privacidade 2026-2027",
+    "type": "matriz",
+    "format": "xlsx",
+    "version": "3.0",
+    "created_at": "2026-01-13T11:00:00Z",
+    "updated_at": "2026-01-22T09:00:00Z",
+    "size_kb": 3858,
+    "tags": [
+      "compliance",
+      "matriz"
+    ]
+  },
+  {
+    "id": "doc-029",
+    "protocol_id": "prot-risk-03",
+    "title": "Relatório de Incidentes - de Riscos de Terceiros",
+    "type": "relatorio",
+    "format": "pdf",
+    "version": "1.4",
+    "created_at": "2025-11-17T18:00:00Z",
+    "updated_at": "2026-01-21T15:00:00Z",
+    "size_kb": 1027,
+    "tags": [
+      "risk",
+      "relatorio"
+    ]
+  },
+  {
+    "id": "doc-030",
+    "protocol_id": "prot-risk-03",
+    "title": "Plano de Mitigação - de Riscos de Terceiros",
+    "type": "plano",
+    "format": "docx",
+    "version": "2.3",
+    "created_at": "2027-04-13T15:00:00Z",
+    "updated_at": "2027-06-25T14:00:00Z",
+    "size_kb": 929,
+    "tags": [
+      "risk",
+      "plano"
+    ]
+  },
+  {
+    "id": "doc-031",
+    "protocol_id": "prot-risk-04",
+    "title": "Matriz de Riscos - de Prevenção a Fraudes",
+    "type": "matriz",
+    "format": "xlsx",
+    "version": "2.6",
+    "created_at": "2027-05-21T15:00:00Z",
+    "updated_at": "2027-07-05T08:00:00Z",
+    "size_kb": 2908,
+    "tags": [
+      "risk",
+      "matriz"
+    ]
+  },
+  {
+    "id": "doc-032",
+    "protocol_id": "prot-risk-04",
+    "title": "Matriz de Riscos - de Prevenção a Fraudes",
+    "type": "matriz",
+    "format": "xlsx",
+    "version": "3.5",
+    "created_at": "2026-05-07T09:00:00Z",
+    "updated_at": "2026-06-27T11:00:00Z",
+    "size_kb": 934,
+    "tags": [
+      "risk",
+      "matriz"
+    ]
+  },
+  {
+    "id": "doc-033",
+    "protocol_id": "prot-risk-05",
+    "title": "Avaliação de Fornecedor - de Riscos Climáticos",
+    "type": "avaliacao",
+    "format": "pdf",
+    "version": "1.4",
+    "created_at": "2027-04-18T15:00:00Z",
+    "updated_at": "2027-06-11T11:00:00Z",
+    "size_kb": 3731,
+    "tags": [
+      "risk",
+      "avaliacao"
+    ]
+  },
+  {
+    "id": "doc-034",
+    "protocol_id": "prot-risk-05",
+    "title": "Matriz de Riscos - de Riscos Climáticos",
+    "type": "matriz",
+    "format": "xlsx",
+    "version": "3.1",
+    "created_at": "2027-09-20T08:00:00Z",
+    "updated_at": "2028-01-01T18:00:00Z",
+    "size_kb": 2364,
+    "tags": [
+      "risk",
+      "matriz"
+    ]
+  },
+  {
+    "id": "doc-035",
+    "protocol_id": "prot-risk-05",
+    "title": "Matriz de Riscos - de Riscos Climáticos",
+    "type": "matriz",
+    "format": "xlsx",
+    "version": "1.2",
+    "created_at": "2027-03-25T14:00:00Z",
+    "updated_at": "2027-07-21T15:00:00Z",
+    "size_kb": 2121,
+    "tags": [
+      "risk",
+      "matriz"
+    ]
+  },
+  {
+    "id": "doc-036",
+    "protocol_id": "prot-risk-06",
+    "title": "Avaliação de Fornecedor - de Resposta a Incidentes 2.0",
+    "type": "avaliacao",
+    "format": "pdf",
+    "version": "2.0",
+    "created_at": "2026-06-05T14:00:00Z",
+    "updated_at": "2026-06-26T12:00:00Z",
+    "size_kb": 3945,
+    "tags": [
+      "risk",
+      "avaliacao"
+    ]
+  },
+  {
+    "id": "doc-037",
+    "protocol_id": "prot-risk-06",
+    "title": "Avaliação de Fornecedor - de Resposta a Incidentes 2.0",
+    "type": "avaliacao",
+    "format": "pdf",
+    "version": "3.8",
+    "created_at": "2026-09-29T18:00:00Z",
+    "updated_at": "2026-11-22T15:00:00Z",
+    "size_kb": 784,
+    "tags": [
+      "risk",
+      "avaliacao"
+    ]
+  },
+  {
+    "id": "doc-038",
+    "protocol_id": "prot-risk-06",
+    "title": "Plano de Mitigação - de Resposta a Incidentes 2.0",
+    "type": "plano",
+    "format": "docx",
+    "version": "1.9",
+    "created_at": "2026-10-04T16:00:00Z",
+    "updated_at": "2026-10-31T08:00:00Z",
+    "size_kb": 3213,
+    "tags": [
+      "risk",
+      "plano"
+    ]
+  },
+  {
+    "id": "doc-039",
+    "protocol_id": "prot-inn-03",
+    "title": "Roadmap - IA Generativa na Operação",
+    "type": "roadmap",
+    "format": "pptx",
+    "version": "2.8",
+    "created_at": "2025-11-26T16:00:00Z",
+    "updated_at": "2026-02-08T10:00:00Z",
+    "size_kb": 382,
+    "tags": [
+      "innovation",
+      "roadmap"
+    ]
+  },
+  {
+    "id": "doc-040",
+    "protocol_id": "prot-inn-03",
+    "title": "Roadmap - IA Generativa na Operação",
+    "type": "roadmap",
+    "format": "pptx",
+    "version": "3.1",
+    "created_at": "2026-04-14T18:00:00Z",
+    "updated_at": "2026-04-22T11:00:00Z",
+    "size_kb": 1803,
+    "tags": [
+      "innovation",
+      "roadmap"
+    ]
+  },
+  {
+    "id": "doc-041",
+    "protocol_id": "prot-inn-03",
+    "title": "Roadmap - IA Generativa na Operação",
+    "type": "roadmap",
+    "format": "pptx",
+    "version": "3.9",
+    "created_at": "2027-05-12T08:00:00Z",
+    "updated_at": "2027-06-12T17:00:00Z",
+    "size_kb": 485,
+    "tags": [
+      "innovation",
+      "roadmap"
+    ]
+  },
+  {
+    "id": "doc-042",
+    "protocol_id": "prot-inn-03",
+    "title": "Contrato de Parceria - IA Generativa na Operação",
+    "type": "contrato",
+    "format": "pdf",
+    "version": "3.8",
+    "created_at": "2027-08-10T13:00:00Z",
+    "updated_at": "2027-10-23T12:00:00Z",
+    "size_kb": 986,
+    "tags": [
+      "innovation",
+      "contrato"
+    ]
+  },
+  {
+    "id": "doc-043",
+    "protocol_id": "prot-inn-04",
+    "title": "Documento de Arquitetura - Hub de Startups Nordeste",
+    "type": "arquitetura",
+    "format": "pdf",
+    "version": "1.4",
+    "created_at": "2026-11-04T15:00:00Z",
+    "updated_at": "2026-12-24T13:00:00Z",
+    "size_kb": 3955,
+    "tags": [
+      "innovation",
+      "arquitetura"
+    ]
+  },
+  {
+    "id": "doc-044",
+    "protocol_id": "prot-inn-04",
+    "title": "Roadmap - Hub de Startups Nordeste",
+    "type": "roadmap",
+    "format": "pptx",
+    "version": "3.9",
+    "created_at": "2026-02-15T09:00:00Z",
+    "updated_at": "2026-04-14T09:00:00Z",
+    "size_kb": 2352,
+    "tags": [
+      "innovation",
+      "roadmap"
+    ]
+  },
+  {
+    "id": "doc-045",
+    "protocol_id": "prot-inn-04",
+    "title": "Documento de Arquitetura - Hub de Startups Nordeste",
+    "type": "arquitetura",
+    "format": "pdf",
+    "version": "1.5",
+    "created_at": "2027-07-09T09:00:00Z",
+    "updated_at": "2027-08-11T11:00:00Z",
+    "size_kb": 1663,
+    "tags": [
+      "innovation",
+      "arquitetura"
+    ]
+  },
+  {
+    "id": "doc-046",
+    "protocol_id": "prot-inn-04",
+    "title": "Guia de Boas Práticas - Hub de Startups Nordeste",
+    "type": "guia",
+    "format": "pdf",
+    "version": "3.4",
+    "created_at": "2026-07-17T17:00:00Z",
+    "updated_at": "2026-09-11T18:00:00Z",
+    "size_kb": 2316,
+    "tags": [
+      "innovation",
+      "guia"
+    ]
+  },
+  {
+    "id": "doc-047",
+    "protocol_id": "prot-inn-05",
+    "title": "Guia de Boas Práticas - Dados como Produto",
+    "type": "guia",
+    "format": "pdf",
+    "version": "1.4",
+    "created_at": "2026-10-20T09:00:00Z",
+    "updated_at": "2027-02-17T09:00:00Z",
+    "size_kb": 3190,
+    "tags": [
+      "innovation",
+      "guia"
+    ]
+  },
+  {
+    "id": "doc-048",
+    "protocol_id": "prot-inn-05",
+    "title": "Documento de Arquitetura - Dados como Produto",
+    "type": "arquitetura",
+    "format": "pdf",
+    "version": "3.3",
+    "created_at": "2027-04-10T13:00:00Z",
+    "updated_at": "2027-05-16T11:00:00Z",
+    "size_kb": 2965,
+    "tags": [
+      "innovation",
+      "arquitetura"
+    ]
+  },
+  {
+    "id": "doc-049",
+    "protocol_id": "prot-inn-06",
+    "title": "Contrato de Parceria - Experiência do Cliente Omnicanal",
+    "type": "contrato",
+    "format": "pdf",
+    "version": "1.1",
+    "created_at": "2027-05-14T18:00:00Z",
+    "updated_at": "2027-09-06T14:00:00Z",
+    "size_kb": 3547,
+    "tags": [
+      "innovation",
+      "contrato"
+    ]
+  },
+  {
+    "id": "doc-050",
+    "protocol_id": "prot-inn-06",
+    "title": "Guia de Boas Práticas - Experiência do Cliente Omnicanal",
+    "type": "guia",
+    "format": "pdf",
+    "version": "2.2",
+    "created_at": "2027-01-28T18:00:00Z",
+    "updated_at": "2027-01-28T12:00:00Z",
+    "size_kb": 811,
+    "tags": [
+      "innovation",
+      "guia"
+    ]
+  },
+  {
+    "id": "doc-051",
+    "protocol_id": "prot-inn-06",
+    "title": "Contrato de Parceria - Experiência do Cliente Omnicanal",
+    "type": "contrato",
+    "format": "pdf",
+    "version": "2.8",
+    "created_at": "2027-10-15T08:00:00Z",
+    "updated_at": "2028-01-13T09:00:00Z",
+    "size_kb": 458,
+    "tags": [
+      "innovation",
+      "contrato"
+    ]
+  },
+  {
+    "id": "doc-052",
+    "protocol_id": "prot-inn-06",
+    "title": "Documento de Arquitetura - Experiência do Cliente Omnicanal",
+    "type": "arquitetura",
+    "format": "pdf",
+    "version": "2.9",
+    "created_at": "2027-10-12T16:00:00Z",
+    "updated_at": "2027-10-16T10:00:00Z",
+    "size_kb": 1910,
+    "tags": [
+      "innovation",
+      "arquitetura"
+    ]
   }
 ]
