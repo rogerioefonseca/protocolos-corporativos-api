@@ -1,0 +1,104 @@
+[
+  {
+    "id": "aud-001",
+    "user_id": "usr-001",
+    "action": "login",
+    "success": true,
+    "ip": "187.45.123.10",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2025-11-20T08:12:34Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-002",
+    "user_id": "usr-002",
+    "action": "login",
+    "success": true,
+    "ip": "200.150.88.22",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2025-11-20T08:45:01Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-003",
+    "user_id": "usr-003",
+    "action": "login",
+    "success": true,
+    "ip": "177.92.44.15",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2025-11-20T09:03:22Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-004",
+    "user_id": "usr-001",
+    "action": "login",
+    "success": false,
+    "ip": "45.33.12.99",
+    "user_agent": "curl/8.0",
+    "timestamp": "2025-11-19T22:15:47Z",
+    "location": "Unknown",
+    "failure_reason": "senha_incorreta"
+  },
+  {
+    "id": "aud-005",
+    "user_id": "usr-004",
+    "action": "login",
+    "success": true,
+    "ip": "189.10.55.77",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0)",
+    "timestamp": "2025-11-21T07:55:10Z",
+    "location": "Curitiba, BR"
+  },
+  {
+    "id": "aud-006",
+    "user_id": "usr-006",
+    "action": "login",
+    "success": true,
+    "ip": "201.33.67.12",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2025-11-21T10:20:33Z",
+    "location": "São Paulo, BR"
+  },
+  {
+    "id": "aud-007",
+    "user_id": "usr-002",
+    "action": "logout",
+    "success": true,
+    "ip": "200.150.88.22",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)",
+    "timestamp": "2025-11-20T18:30:00Z",
+    "location": "Rio de Janeiro, BR"
+  },
+  {
+    "id": "aud-008",
+    "user_id": "usr-005",
+    "action": "login",
+    "success": false,
+    "ip": "191.22.88.41",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0)",
+    "timestamp": "2025-11-18T14:02:19Z",
+    "location": "Porto Alegre, BR",
+    "failure_reason": "conta_desativada"
+  },
+  {
+    "id": "aud-009",
+    "user_id": "usr-003",
+    "action": "login",
+    "success": true,
+    "ip": "177.92.44.15",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
+    "timestamp": "2025-11-22T09:11:05Z",
+    "location": "Belo Horizonte, BR"
+  },
+  {
+    "id": "aud-010",
+    "user_id": "usr-006",
+    "action": "login",
+    "success": true,
+    "ip": "201.33.67.12",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "timestamp": "2025-11-23T08:40:18Z",
+    "location": "São Paulo, BR"
+  }
+]
