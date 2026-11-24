@@ -1,0 +1,74 @@
+[
+  {
+    "protocol_type": "compliance",
+    "protocol_type_label": "Conformidade Regulatória",
+    "costs": {
+      "setup": {
+        "label": "Custo de Implantação / Setup",
+        "value": 45000.00,
+        "currency": "BRL",
+        "description": "Custos iniciais de configuração, treinamentos e mapeamento de processos."
+      },
+      "monthly": {
+        "label": "Custo Mensal Recorrente",
+        "value": 8200.00,
+        "currency": "BRL",
+        "description": "Licenças, monitoramento contínuo e suporte especializado."
+      },
+      "per_document": {
+        "label": "Custo por Documento / Artefato",
+        "value": 350.00,
+        "currency": "BRL",
+        "description": "Custo médio de criação, revisão e versionamento de cada documento oficial."
+      }
+    }
+  },
+  {
+    "protocol_type": "risk",
+    "protocol_type_label": "Gestão de Riscos",
+    "costs": {
+      "setup": {
+        "label": "Custo de Implantação / Setup",
+        "value": 62000.00,
+        "currency": "BRL",
+        "description": "Avaliação inicial de riscos, ferramentas de monitoramento e workshops."
+      },
+      "monthly": {
+        "label": "Custo Mensal Recorrente",
+        "value": 11500.00,
+        "currency": "BRL",
+        "description": "Plataformas de threat intelligence, SOC e revisões periódicas."
+      },
+      "per_document": {
+        "label": "Custo por Documento / Artefato",
+        "value": 480.00,
+        "currency": "BRL",
+        "description": "Análises de risco, planos de mitigação e relatórios de incidente."
+      }
+    }
+  },
+  {
+    "protocol_type": "innovation",
+    "protocol_type_label": "Inovação e Projetos",
+    "costs": {
+      "setup": {
+        "label": "Custo de Implantação / Setup",
+        "value": 95000.00,
+        "currency": "BRL",
+        "description": "Definição de framework, parcerias iniciais e setup de governança de inovação."
+      },
+      "monthly": {
+        "label": "Custo Mensal Recorrente",
+        "value": 18500.00,
+        "currency": "BRL",
+        "description": "Gestão de portfólio, mentorias e ferramentas de colaboração."
+      },
+      "per_document": {
+        "label": "Custo por Documento / Artefato",
+        "value": 620.00,
+        "currency": "BRL",
+        "description": "Contratos, roadmaps, dashboards e documentação de projetos."
+      }
+    }
+  }
+]
