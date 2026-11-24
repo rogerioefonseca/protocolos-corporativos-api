@@ -1,0 +1,80 @@
+[
+  {
+    "id": "prot-comp-01",
+    "type": "compliance",
+    "name": "Protocolo LGPD & Privacidade 2025",
+    "description": "Controle de conformidade com a Lei Geral de Proteção de Dados e políticas internas de privacidade.",
+    "value": 185000.00,
+    "currency": "BRL",
+    "status": "ativo",
+    "owner_user_id": "usr-001",
+    "start_date": "2025-01-01",
+    "end_date": "2025-12-31",
+    "document_ids": ["doc-001", "doc-002", "doc-003"]
+  },
+  {
+    "id": "prot-comp-02",
+    "type": "compliance",
+    "name": "Protocolo SOX Controles Financeiros",
+    "description": "Controles internos exigidos pela Sarbanes-Oxley para relatórios financeiros.",
+    "value": 320000.00,
+    "currency": "BRL",
+    "status": "ativo",
+    "owner_user_id": "usr-004",
+    "start_date": "2024-07-01",
+    "end_date": "2026-06-30",
+    "document_ids": ["doc-004", "doc-005"]
+  },
+  {
+    "id": "prot-risk-01",
+    "type": "risk",
+    "name": "Protocolo de Riscos Cibernéticos",
+    "description": "Identificação, avaliação e mitigação de riscos de segurança da informação e ciberataques.",
+    "value": 275000.00,
+    "currency": "BRL",
+    "status": "ativo",
+    "owner_user_id": "usr-002",
+    "start_date": "2025-03-01",
+    "end_date": "2026-02-28",
+    "document_ids": ["doc-006", "doc-007", "doc-008"]
+  },
+  {
+    "id": "prot-risk-02",
+    "type": "risk",
+    "name": "Protocolo de Continuidade de Negócios",
+    "description": "Planos de continuidade e recuperação de desastres (BCP/DRP).",
+    "value": 150000.00,
+    "currency": "BRL",
+    "status": "em_revisao",
+    "owner_user_id": "usr-005",
+    "start_date": "2024-10-01",
+    "end_date": "2025-09-30",
+    "document_ids": ["doc-009"]
+  },
+  {
+    "id": "prot-inn-01",
+    "type": "innovation",
+    "name": "Protocolo de Inovação Aberta",
+    "description": "Framework para projetos de inovação com startups e universidades.",
+    "value": 420000.00,
+    "currency": "BRL",
+    "status": "ativo",
+    "owner_user_id": "usr-003",
+    "start_date": "2025-04-15",
+    "end_date": "2026-04-14",
+    "document_ids": ["doc-010", "doc-011", "doc-012"]
+  },
+  {
+    "id": "prot-inn-02",
+    "type": "innovation",
+    "name": "Protocolo Transformação Digital Core",
+    "description": "Roadmap e governança da transformação digital dos sistemas core da empresa.",
+    "value": 890000.00,
+    "currency": "BRL",
+    "status": "ativo",
+    "owner_user_id": "usr-006",
+    "start_date": "2025-01-01",
+    "end_date": "2027-12-31",
+    "document_ids": ["doc-013", "doc-014"]
+  }
+]
